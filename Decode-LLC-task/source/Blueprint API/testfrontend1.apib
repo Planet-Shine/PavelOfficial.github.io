@@ -1,0 +1,341 @@
+FORMAT: 1A
+HOST: https://api-test-task.decodeapps.io/
+
+# TestFrontend
+
+# Error Types
+
++ Response 400 (application/json)
+
+    + Body
+
+            {
+                "message": 
+                    [
+                        "fieldname": 
+                        [
+                            "Some error"
+                        ]
+                    ]
+            }
+            
++ Response 405 (application/json)
+
+    + Body
+
+            {
+                "message": "Some error"
+            }  
+
+# Group Account
+
+## /signup
+
+### Create new user [POST]
+
++ Response 200 (application/json)
+
+    Success response
+
+    + Body
+
+            {
+                "session": "570cb72a-0b68-4a12-bb34-71e1ac1f02c3"
+            }
+
+## /session
+
+### Check session [GET]
+
++ Parameters
+    + session (required, string, `485fc381-e790-47a3-9794-1337c0a8fe68`) ... Session token
+
++ Response 200
+
+## /account
+
+### Fetch account [GET]
+
++ Parameters
+    + session (required, string, `485fc381-e790-47a3-9794-1337c0a8fe68`) ... Session token
+
++ Response 200 (application/json)
+
+    Success response
+
+    + Body
+    
+            {
+                "Account": {
+                    "username": "John Snow",
+                    "image_url": "http://example.com/image.png"
+                }
+            }
+
+# Group Projects
+
+## /projects
+
+### Fetch projects [GET]
+
++ Parameters
+    + session (required, string, `485fc381-e790-47a3-9794-1337c0a8fe68`) ... Session token
+
++ Response 200 (application/json)
+
+    Success response
+
+    + Body
+    
+            {
+                "projects": [
+                    {
+                        "Project": {
+                            "id": 123,
+                            "title": "Some project",
+                            "task_count": 4
+                        }
+                    }
+                ]
+            }
+
+## /projects/project
+
+### Fetch project [GET]
+
++ Parameters
+    + session (required, string, `485fc381-e790-47a3-9794-1337c0a8fe68`) ... Session token
+    + project_id (required, int, `123`) ... Project ID
+
++ Response 200 (application/json)
+
+    Success response
+
+    + Body
+    
+            {
+                "Project": {
+                    "id": 123,
+                    "title": "Some project",
+                    "task_count": 4
+                }
+            }
+
+### Create project [POST]
+
++ Parameters
+    + session (required, string, `485fc381-e790-47a3-9794-1337c0a8fe68`) ... Session token
+    + Project.title (required, string, `Some title`) ... Project title
+
++ Request  (application/json)
+
+    + Body
+    
+            {
+                "Project": {
+                    "title": "Some title"
+                }
+            }
+
++ Response 200 (application/json)
+
+    Success response
+
+    + Body
+    
+            {
+                "Project": {
+                    "id": 123
+                }
+            }
+
+### Update project [POST]
+
++ Parameters
+    + session (required, string, `485fc381-e790-47a3-9794-1337c0a8fe68`) ... Session token
+    + Project.id (required, int, `123`) ... Project id
+    + Project.title (required, string, `Some title`) ... Project title
+
++ Request  (application/json)
+
+    + Body
+    
+            {
+                "Project": {
+                    "id": 123,
+                    "title": "Some title"
+                }
+            }
+
++ Response 200 (application/json)
+
+    Success response
+
+    + Body
+    
+            {
+                "Project": {
+                    "id": 123,
+                    "title": "Some title",
+                    "task_count": 4
+                }
+            }
+
+### Delete project [DELETE]
+
++ Parameters
+    + session (required, string, `485fc381-e790-47a3-9794-1337c0a8fe68`) ... Session token
+    + project_id (required, int, `123`) ... Project id
+
++ Response 200
+
+# Group Task
+
+## /tasks
+
+### Fetch tasks [GET]
+
++ Parameters
+    + session (required, string, `485fc381-e790-47a3-9794-1337c0a8fe68`) ... Session token
+    + project_id (required, int, `123`) ... Project ID
+    + condition_keywords (optional, string, `Some keywrods`) ... Keywords string
+    + paging_size (required, integer, `20`) ... Count of items in response
+    + paging_offset (required, integer, `10`) ... Offset in items for paging
+    
+
++ Response 200 (application/json)
+
+    Success response
+
+    + Body
+    
+            {
+                "tasks": [
+                    {
+                        "Task": {
+                            "id": 123,
+                            "title": "Some project",
+                            "created_at": "2016-31-12 12:59:59"
+                        }
+                    }
+                ],
+                "total_count": 50
+            }
+
+## /tasks/task
+
+### Fetch task [GET]
+
++ Parameters
+    + session (required, string, `485fc381-e790-47a3-9794-1337c0a8fe68`) ... Session token
+    + task_id (required, int, `123`) ... Task ID
+
++ Response 200 (application/json)
+
+    Success response
+
+    + Body
+    
+            {
+                "Task": {
+                    "id": 123,
+                    "title": "Some project",
+                    "description": "Some description"
+                }
+            }
+
+### Create task [POST]
+
++ Parameters
+    + session (required, string, `485fc381-e790-47a3-9794-1337c0a8fe68`) ... Session token
+    + Project.id (required, string, `123`) ... Project ID
+    + Task.title (required, string, `Some title`) ... Task title
+    + Task.description (optional, string, `Some description`) ... Task description
+
++ Request  (application/json)
+
+    + Body
+    
+            {
+                "Project": {
+                    "id": 123
+                },
+                "Task": {
+                    "title": "Some title",
+                    "description": "Some description"
+                }
+            }
+
++ Response 200 (application/json)
+
+    Success response
+
+    + Body
+    
+            {
+                "Task": {
+                    "id": 123
+                }
+            }
+
+### Update task [POST]
+
++ Parameters
+    + session (required, string, `485fc381-e790-47a3-9794-1337c0a8fe68`) ... Session token
+    + Task.id (required, int, `123`) ... Task ID
+    + Task.title (required, string, `Some title`) ... Task title
+    + Task.description (optional, string, `Some description`) ... Task description
+
++ Request  (application/json)
+
+    + Body
+    
+            {
+                "Task": {
+                    "id": 123,
+                    "title": "Some title",
+                    "description": "Some description"
+                }
+            }
+
++ Response 200 (application/json)
+
+    Success response
+
+    + Body
+    
+            {
+                "Project": {
+                    "id": 123,
+                    "title": "Some title",
+                    "description": "Some description"
+                }
+            }
+
+### Delete task [DELETE]
+
++ Parameters
+    + session (required, string, `485fc381-e790-47a3-9794-1337c0a8fe68`) ... Session token
+    + task_id (required, int, `123`) ... Task id
+
++ Response 200
+
+## /tasks/task/complite
+
+### Complite task [POST]
+
++ Parameters
+    + session (required, string, `485fc381-e790-47a3-9794-1337c0a8fe68`) ... Session token
+    + Task.id (required, int, `123`) ... Task ID
+
++ Request  (application/json)
+
+    + Body
+    
+            {
+                "Task": {
+                    "id": 123
+                }
+            }
+
++ Response 200

@@ -1,0 +1,232 @@
+
+@LSTopLevelZIndex : 1999999999;
+@LSBottomLevelZIndex : 0;
+
+.font-face (@fontPath, @fontName) {
+    @font-face {
+        @woffPath  : '@{fontPath}@{fontName}.woff';
+        @truetypePath : '@{fontPath}@{fontName}.ttf';
+        @svgPath : '@{fontPath}@{fontName}.svg#@{fontName}';
+
+        font-family: @fontName;
+        src: url(@woffPath) format('woff'),
+             url(@truetypePath) format('truetype'),
+             url(@svgPath) format('svg');
+        font-weight: normal;
+        font-style: normal;
+    }
+}
+
+.pos (@left : auto, @top : auto, @right : auto, @bottom : auto) {
+  top : @top;
+  left : @left;
+  right : @right;
+  bottom : @bottom;
+}
+
+.size (@width : auto, @height : auto) {
+  width : @width;
+  height : @height;
+}
+
+.fixed() {
+  position: fixed;
+  display: block;
+}
+
+.absolute() {
+  position: absolute;
+  display: block;
+}
+
+.relative() {
+  position: relative;
+  display: block;
+}
+
+.custom-hint() {
+  display: block;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: normal;
+  word-wrap: break-word;
+}
+
+.inline-block() {
+  display: inline-block;
+  vertical-align: top;
+  word-wrap: break-word;
+}
+
+.top-fill() {
+  .pos(0,0,0);
+}
+
+.bottom-fill() {
+  .pos(0,auto,0,0);
+}
+
+.level-top (@topDifference) {
+  z-index : @LSTopLevelZIndex + @topDifference;
+}
+
+.level (@bottomDifference) {
+  z-index : @LSBottomLevelZIndex + @bottomDifference;
+}
+
+.text-sizing (@size :  1em, @lineHeight : 1em, @letterSpacing : 0) {
+  font-size: @size;
+  line-height: @lineHeight;
+  letter-spacing: @letterSpacing;
+}
+
+.text-decor (@weight : normal, @style : normal, @decoration : none) {
+  font-weight : @weight;
+  font-style : @style;
+  text-decoration : @decoration;
+}
+
+/*
+
+Эти характеристики зачастую рассматриваются по отдельности.
+
+.text (@color : #000000, @textAlign : left) {
+  font-family : ;
+  color : @color;
+  text-align: @textAlign;
+}
+
+*/
+
+.cover-page (@minHeight) {
+  .relative();
+  .size(100%, 100%);
+  min-height : @minHeight;
+}
+
+.text-word (@wordWrap : normal, @whiteSpace : normal, @textOverflow : clip) {
+  word-wrap  : @wordWrap; // normal | break-word(разбивать слова на переносе) | inherit
+  white-space : @whiteSpace; // normal | nowrap (одна строка) | pre | pre-line | pre-wrap | inherit;
+  // word-break : @wordBreak; // normal | break-all | keep-all
+  text-overflow : @textOverflow; // clip | ellipsis
+}
+
+.clear(@clear : both) {
+  clear : @clear;
+}
+
+.box (@background : none, @border : none) {
+  background : @background;
+  border : @border;
+}
+
+.h-center(@marginTop : 0, @marginBottom : 0) {
+  .marg(auto, @marginTop, auto, @marginBottom);
+}
+
+.pad (@left : 0, @top : 0, @right : 0, @bottom : 0) {
+  padding : @top @right @bottom @left;
+}
+
+.marg (@left : 0, @top : 0, @right : 0, @bottom : 0) {
+  margin : @top @right @bottom @left;
+}
+
+.maxWidthScreen (@maxWidth, @rules) {
+  @media screen and (max-width : @maxWidth) {
+    @rules();
+  }
+}
+
+.minWidthScreen (@minWidth, @rules) {
+  @media screen and (min-width : @minWidth) {
+    @rules();
+  }
+}
+
+// Включить в опредение размеров элемента padding и border.
+.borderBox() {
+  .box-sizing(border-box);
+}
+
+/* bg */
+
+.bg(@background) {
+  background : @background;
+}
+
+.bg-no-repeat () {
+  background-repeat: no-repeat;
+}
+
+.bg-contain() {
+  background-size: contain;
+}
+
+.bg-cover() {
+  background-size: cover;
+}
+
+.bg-fixed() {
+  background-attachment: fixed;
+}
+
+.bg-local() {
+  background-attachment: local;
+}
+
+.bg-center() {
+  background-position: center;
+}
+
+.bg-padding-box() {
+  .background-origin(padding-box);
+}
+
+.bg-border-box() {
+  .background-origin(border-box);
+}
+
+.bg-content-box() {
+  .background-origin(background-origin);
+}
+
+/* end bg */
+
+
+
+/* button */
+.btn () {
+  display: inline-block;
+  cursor: pointer;
+  .user-select(none);
+  .box-sizing(border-box);
+  outline: 0;
+  white-space: nowrap;
+}
+
+.btn_ico () {
+  display: inline-block;
+  background: center center no-repeat;
+  background-size: 100% 100%;
+  white-space: nowrap;
+  vertical-align: top;
+}
+
+.btn_lbl () {
+  .user-select(none);
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+/* end button */
+
+
+
+
+
+
+
+

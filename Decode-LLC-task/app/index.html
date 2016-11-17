@@ -1,0 +1,440 @@
+<!doctype html>
+<html ng-app="todo">
+<head>
+
+    <title>Todo</title>
+
+    <meta charset="UTF-8" />
+
+    <link rel="stylesheet" href="./styles.css" />
+
+    <script type="text/javascript" src="build.js"></script>
+
+</head>
+<body ng-controller="TodoCtrl as $todo">
+
+    <div class="page-cover page-cover_showed" layout="row" layout-align="center center">
+        <md-progress-circular
+                md-diameter="60"
+                layout-align="center"
+                md-mode="indeterminate">
+        </md-progress-circular>
+    </div>
+
+<!--
+
+
+    Загрузка шрифта Material.
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic">
+
+
+
+
+    <md-toolbar class="md-hue-2">
+      <div class="md-toolbar-tools">
+      </div>
+    </md-toolbar>
+
+
+
+
+-->
+<!--
+
+    Умный список с группировкой с заголовками.
+    Список выводящий множество параметров в каждом пункте.
+    <md-list flex>
+      <md-subheader class="md-no-sticky">3 line item (with hover)</md-subheader>
+      <md-list-item class="md-3-line" ng-repeat="item in todos" ng-click="null">
+        <img ng-src="{{item.face}}?{{$index}}" class="md-avatar" alt="{{item.who}}" />
+        <div class="md-list-item-text" layout="column">
+          <h3>{{ item.who }}</h3>
+          <h4>{{ item.what }}</h4>
+          <p>{{ item.notes }}</p>
+        </div>
+      </md-list-item>
+      <md-divider ></md-divider>
+      <md-subheader class="md-no-sticky">2 line item</md-subheader>
+      <md-list-item class="md-2-line">
+        <img ng-src="{{todos[0].face}}?20" class="md-avatar" alt="{{todos[0].who}}" />
+        <div class="md-list-item-text">
+          <h3>{{ todos[0].who }}</h3>
+          <p>Secondary text</p>
+        </div>
+      </md-list-item>
+      <md-divider ></md-divider>
+      <md-subheader class="md-no-sticky">3 line item, long paragraph (see on mobile)</md-subheader>
+      <md-list-item class="md-3-line md-long-text">
+        <img ng-src="{{todos[0].face}}?25" class="md-avatar" alt="{{todos[0].who}}" />
+        <div class="md-list-item-text">
+          <h3>{{ todos[0].who }}</h3>
+          <p>
+            Secondary line text Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam massa quam.
+            Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum
+            velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+          </p>
+        </div>
+      </md-list-item>
+      <md-list-item class="md-3-line md-long-text">
+        <img ng-src="{{todos[1].face}}?25" class="md-avatar" alt="{{todos[1].who}}" />
+        <div class="md-list-item-text">
+          <h3>{{ todos[1].who }}</h3>
+          <p>
+            Secondary line text Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam massa quam.
+            Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum
+            velit. Class aptent taciti sociosqu ad litra torquent per conubia nostra, per inceptos himenaeos.
+          </p>
+        </div>
+      </md-list-item>
+      <md-divider ></md-divider>
+      <md-subheader class="md-no-sticky">Classes</md-subheader>
+      <md-list-item class="md-2-line" ng-repeat="phone in phones">
+        <md-icon md-svg-icon="{{phone.options.icon}}" ng-if="phone.options.icon" ng-class="{'md-avatar-icon': phone.options.avatarIcon}"></md-icon>
+        <img ng-src="{{phone.options.face}}?25" class="md-avatar" alt="{{phone.options.face}}"
+             ng-if="phone.options.face"/>
+        <div class="md-list-item-text" ng-class="{'md-offset': phone.options.offset }">
+          <h3> {{ phone.number }} </h3>
+          <p> {{ phone.type }} </p>
+        </div>
+        <md-button class="md-secondary md-icon-button" ng-click="doSecondaryAction($event)" ng-if="phone.options.actionIcon" aria-label="call">
+          <md-icon md-svg-icon="{{phone.options.actionIcon}}"></md-icon>
+        </md-button>
+      </md-list-item>
+    </md-list>
+
+-->
+<!--
+
+    Элемент с кнопкой. Заголовок с кнопкой.
+    Изображение и надпись.
+
+
+    Кнопка-иконка.
+    <md-button class="md-icon-button" aria-label="More">
+        <md-icon md-svg-icon="img/icons/more_vert.svg"></md-icon>
+    </md-button>
+
+-->
+<!--
+
+    Выподающее меню.
+    <md-menu>
+      <md-button aria-label="Open phone interactions menu" class="md-icon-button" ng-click="ctrl.openMenu($mdOpenMenu, $event)">
+        <md-icon md-menu-origin md-svg-icon="call:phone"></md-icon>
+      </md-button>
+      <md-menu-content width="4">
+        <md-menu-item>
+          <md-button ng-click="ctrl.redial($event)">
+            <md-icon md-svg-icon="call:dialpad" md-menu-align-target></md-icon>
+            Redial
+          </md-button>
+        </md-menu-item>
+        <md-menu-item>
+          <md-button disabled="disabled" ng-click="ctrl.checkVoicemail()">
+            <md-icon md-svg-icon="call:voicemail"></md-icon>
+            Check voicemail
+          </md-button>
+        </md-menu-item>
+        <md-menu-divider></md-menu-divider>
+        <md-menu-item>
+          <md-button ng-click="ctrl.toggleNotifications()">
+            <md-icon md-svg-icon="social:notifications-{{ctrl.notificationsEnabled ? 'off' : 'on'}}"></md-icon>
+            {{ctrl.notificationsEnabled ? 'Disable' : 'Enable' }} notifications
+          </md-button>
+        </md-menu-item>
+      </md-menu-content>
+    </md-menu>
+
+-->
+<!--
+
+    Инпут.
+    <md-input-container>
+        <label>Title</label>
+        <input ng-model="user.title">
+    </md-input-container>
+
+    (Чтобы фиксированно выводило.):
+    <md-input-container class="md-block">
+      <label>Address</label>
+      <input ng-model="user.address">
+    </md-input-container>
+
+    (Чтобы с валидацией данных)
+    <md-input-container class="md-block" flex-gt-sm>
+      <label>Postal Code</label>
+      <input name="postalCode" ng-model="user.postalCode" placeholder="12345"
+             required ng-pattern="/^[0-9]{5}$/" md-maxlength="5">
+
+      <div ng-messages="userForm.postalCode.$error" role="alert" multiple>
+        <div ng-message="required" class="my-message">You must supply a postal code.</div>
+        <div ng-message="pattern" class="my-message">That doesn't look like a valid postal
+          code.
+        </div>
+        <div ng-message="md-maxlength" class="my-message">
+          Don't use the long version silly...we don't need to be that specific...
+        </div>
+      </div>
+    </md-input-container>
+
+
+-->
+<!--
+
+    Левая бокавая панель.
+    <section layout="row" flex>
+
+    <md-sidenav
+        class="md-sidenav-left"
+        md-component-id="left"
+        md-is-locked-open="$mdMedia('gt-md')"
+        md-whiteframe="4">
+
+      <md-toolbar class="md-theme-indigo">
+        <h1 class="md-toolbar-tools">Sidenav Left</h1>
+      </md-toolbar>
+      <md-content layout-padding ng-controller="LeftCtrl">
+        <md-button ng-click="close()" class="md-primary" hide-gt-md>
+          Close Sidenav Left
+        </md-button>
+        <p hide show-gt-md>
+          This sidenav is locked open on your device. To go back to the default behavior,
+          narrow your display.
+        </p>
+      </md-content>
+
+    </md-sidenav>
+
+    <md-content flex layout-padding>
+
+      <div layout="column" layout-align="top center">
+        <p>
+        The left sidenav will 'lock open' on a medium (>=960px wide) device.
+        </p>
+        <p>
+        The right sidenav will focus on a specific child element.
+        </p>
+
+        <div>
+          <md-button ng-click="toggleLeft()"
+            class="md-primary" hide-gt-md>
+            Toggle left
+          </md-button>
+        </div>
+
+        <div>
+          <md-button ng-click="toggleRight()"
+            ng-hide="isOpenRight()"
+            class="md-primary">
+            Toggle right
+          </md-button>
+        </div>
+      </div>
+
+      <div flex></div>
+
+    </md-content>
+
+    <md-sidenav class="md-sidenav-right md-whiteframe-4dp" md-component-id="right">
+
+      <md-toolbar class="md-theme-light">
+        <h1 class="md-toolbar-tools">Sidenav Right</h1>
+      </md-toolbar>
+      <md-content ng-controller="RightCtrl" layout-padding>
+        <form>
+          <md-input-container>
+            <label for="testInput">Test input</label>
+            <input type="text" id="testInput"
+                   ng-model="data" md-autofocus>
+          </md-input-container>
+        </form>
+        <md-button ng-click="close()" class="md-primary">
+          Close Sidenav Right
+        </md-button>
+      </md-content>
+
+    </md-sidenav>
+
+  </section>
+-->
+<!--
+    Правая выплывающая боковая панель.
+
+    Дропдавн с менюшкой.
+    <md-fab-speed-dial md-open="demo.isOpen" md-direction="{{demo.selectedDirection}}"
+         ng-class="demo.selectedMode">
+        <md-fab-trigger>
+          <md-button aria-label="menu" class="md-fab md-warn">
+            <md-icon md-svg-src="img/icons/menu.svg"></md-icon>
+          </md-button>
+        </md-fab-trigger>
+
+        <md-fab-actions>
+          <md-button aria-label="Twitter" class="md-fab md-raised md-mini">
+            <md-icon md-svg-src="img/icons/twitter.svg" aria-label="Twitter"></md-icon>
+          </md-button>
+          <md-button aria-label="Facebook" class="md-fab md-raised md-mini">
+            <md-icon md-svg-src="img/icons/facebook.svg" aria-label="Facebook"></md-icon>
+          </md-button>
+          <md-button aria-label="Google Hangout" class="md-fab md-raised md-mini">
+            <md-icon md-svg-src="img/icons/hangout.svg" aria-label="Google Hangout"></md-icon>
+          </md-button>
+        </md-fab-actions>
+      </md-fab-speed-dial>
+
+-->
+<!--
+
+    Инпут.
+    Форма.
+    Заголовок.
+    Кнопка и текстом и иконкой.
+    <md-button class="md-raised md-primary">Primary</md-button>
+
+-->
+<!--
+
+    Иконка с заголовком на фон.
+    Текст.
+
+-->
+<!--
+
+    Разделитель.
+    <md-divider ng-if="!$last"></md-divider>
+    <md-subheader class="md-primary">Unread Messages</md-subheader>
+
+-->
+<!--
+
+    Чистая иконка.
+    <md-icon md-font-icon="{{ font.name }}"
+            ng-style="{color: !font.theme && font.color, 'font-size': it.size + 'px', height: it.size + 'px'}"
+            ng-class="font.theme"
+            aria-label="{{ font.name + it.size }}"
+            class="step "></md-icon>
+-->
+<!--
+
+    Карточка с действиями.
+    <md-card md-theme="{{ showDarkTheme ? 'dark-grey' : 'default' }}" md-theme-watch>
+      <md-card-title>
+        <md-card-title-text>
+          <span class="md-headline">Card with image</span>
+          <span class="md-subhead">Large</span>
+        </md-card-title-text>
+        <md-card-title-media>
+          <div class="md-media-lg card-media"></div>
+        </md-card-title-media>
+      </md-card-title>
+      <md-card-actions layout="row" layout-align="end center">
+        <md-button>Action 1</md-button>
+        <md-button>Action 2</md-button>
+      </md-card-actions>
+    </md-card>
+
+-->
+<!--
+
+  Горизонтальный тулбар.
+  <md-toolbar class="md-warn">
+    <div class="md-toolbar-tools">
+      <h2 class="md-flex">Toolbar: md-warn</h2>
+    </div>
+  </md-toolbar>
+
+-->
+<!--
+
+    Пример контента.
+    <md-content flex layout-padding>
+        <p>
+            Lorem ipsum dolor sit amet, ne quod novum mei. Sea omnium invenire mediocrem at,
+            in lobortis conclusionemque nam. Ne deleniti appetere reprimique pro, inani labitur
+            disputationi te sed. At vix sale omnesque, id pro labitur reformidans accommodare,
+            cum labores honestatis eu. Nec quem lucilius in, eam praesent reformidans no.
+            Sed laudem aliquam ne.
+        </p>
+    </md-content>
+
+-->
+<!--
+
+   Сетка для основы страницы.
+   <md-grid-list
+        md-cols-xs="1" md-cols-sm="2" md-cols-md="4" md-cols-gt-md="6"
+        md-row-height-gt-md="1:1" md-row-height="2:2"
+        md-gutter="12px" md-gutter-gt-sm="8px" >
+   </md-grid-list>
+
+-->
+<!--
+
+   Построение контента на основе панели:
+   <div class="demo-md-panel-animation md-padding" ng-controller="AnimationCtrl as ctrl">
+      <h2>Animations</h2>
+      <div layout="row">
+        <div flex="33">
+          OpenFrom:
+          <md-radio-group ng-model="ctrl.openFrom">
+            <md-radio-button value="button">Button</md-radio-button>
+            <md-radio-button value="corner">Top/Left Corner</md-radio-button>
+            <md-radio-button value="bottom">Bottom Center</md-radio-button>
+          </md-radio-group>
+        </div>
+
+        <div flex="33">
+          CloseTo:
+          <md-radio-group ng-model="ctrl.closeTo">
+            <md-radio-button value="button">Button</md-radio-button>
+            <md-radio-button value="corner">Top/Left Corner</md-radio-button>
+            <md-radio-button value="bottom">Bottom Center</md-radio-button>
+          </md-radio-group>
+        </div>
+
+        <div flex="33">
+          AnimationType:
+          <md-radio-group ng-model="ctrl.animationType">
+            <md-radio-button value="none">None</md-radio-button>
+            <md-radio-button value="slide">Slide</md-radio-button>
+            <md-radio-button value="scale">Scale</md-radio-button>
+            <md-radio-button value="fade">Fade</md-radio-button>
+            <md-radio-button value="custom">Custom</md-radio-button>
+          </md-radio-group>
+        </div>
+      </div>
+
+      <div class="demo-md-panel-content">
+        <md-button class="animation-target md-primary md-raised" ng-click="ctrl.showDialog($event)">
+          Dialog
+        </md-button>
+      </div>
+    </div>
+-->
+<!--
+
+    Лоадер.
+    <div layout="row" layout-sm="column" layout-align="space-around">
+      <md-progress-circular md-mode="indeterminate"></md-progress-circular>
+    </div>
+
+-->
+<!--
+
+    Лоадер для формы.
+    <md-progress-linear md-mode="indeterminate"></md-progress-linear>
+
+-->
+<!--
+
+    Прокрутка вверх.
+    Может понадобиться для прокручивания содержимого.
+    <div flex layout="row" layout-align="center center"
+         class="demo-swipe" md-swipe-up="onSwipeUp()">
+        <span class="no-select">Swipe me up</span>
+    </div>
+
+-->
+
+</body>
+</html>
