@@ -1,10 +1,611 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="upload Decode LLC task">
+    <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Decode-LLC-task/build.js" afterPath="$PROJECT_DIR$/Decode-LLC-task/build.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Decode-LLC-task/styles.css" afterPath="$PROJECT_DIR$/Decode-LLC-task/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/build.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/build.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/build.js.map" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/build.js.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/dev-index.html" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/dev-index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/dev-todo.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/dev-todo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/fonts/Test--front-end_098c06d65defbb6ea10311c32cd9831b.eot" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/fonts/Test--front-end_098c06d65defbb6ea10311c32cd9831b.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/fonts/Test--front-end_098c06d65defbb6ea10311c32cd9831b.svg" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/fonts/Test--front-end_098c06d65defbb6ea10311c32cd9831b.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/fonts/Test--front-end_098c06d65defbb6ea10311c32cd9831b.ttf" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/fonts/Test--front-end_098c06d65defbb6ea10311c32cd9831b.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/fonts/Test--front-end_098c06d65defbb6ea10311c32cd9831b.woff" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/fonts/Test--front-end_098c06d65defbb6ea10311c32cd9831b.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/fonts/Test--front-end_098c06d65defbb6ea10311c32cd9831b.woff2" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/fonts/Test--front-end_098c06d65defbb6ea10311c32cd9831b.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/images/pp-bg.jpg" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/images/pp-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/images/pp-no-todo-bg.jpg" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/images/pp-no-todo-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/images/pp-side-panel-bg.jpg" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/images/pp-side-panel-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/index.html" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/layout-fixes.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/layout-fixes.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/resource/account.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/resource/account.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/resource/project.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/resource/project.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/resource/task.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/resource/task.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/resource/todo.txt" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/resource/todo.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/resource/todoResource.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/resource/todoResource.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/static/jquery-1.8.3.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/static/jquery-1.8.3.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/static/jquery.pixlayout.0.9.7.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/static/jquery.pixlayout.0.9.7.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/styl/icons.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/styl/icons.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/styl/index.less" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/styl/index.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/styl/layout-solves.less" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/styl/layout-solves.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/styl/reset-css.less" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/styl/reset-css.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/styles.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/styles.css.map" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/styles.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/todo.config.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/todo.config.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/todo.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/todo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/todo.txt" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/todo.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/todo/profileInfo.directive.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/todo/profileInfo.directive.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/todo/profileInfo.directive.template.html" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/todo/profileInfo.directive.template.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/app/todo/todo.controller.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/app/todo/todo.controller.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/build.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/build.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/index.html" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-animate/LICENSE.md" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-animate/LICENSE.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-animate/README.md" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-animate/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-animate/angular-animate.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-animate/angular-animate.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-animate/angular-animate.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-animate/angular-animate.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-animate/angular-animate.min.js.map" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-animate/angular-animate.min.js.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-animate/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-animate/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-animate/index.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-animate/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-animate/package.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-animate/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-aria/LICENSE.md" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-aria/LICENSE.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-aria/README.md" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-aria/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-aria/angular-aria.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-aria/angular-aria.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-aria/angular-aria.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-aria/angular-aria.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-aria/angular-aria.min.js.map" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-aria/angular-aria.min.js.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-aria/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-aria/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-aria/index.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-aria/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-aria/package.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-aria/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-cookies/LICENSE.md" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-cookies/LICENSE.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-cookies/README.md" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-cookies/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-cookies/angular-cookies.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-cookies/angular-cookies.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-cookies/angular-cookies.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-cookies/angular-cookies.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-cookies/angular-cookies.min.js.map" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-cookies/angular-cookies.min.js.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-cookies/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-cookies/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-cookies/index.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-cookies/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-cookies/package.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-cookies/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/.npmignore" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/.npmignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/CHANGELOG.md" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/CHANGELOG.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/LICENSE" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/README.md" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/angular-material-mocks.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/angular-material-mocks.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/angular-material.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/angular-material.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/angular-material.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/angular-material.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/angular-material.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/angular-material.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/angular-material.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/angular-material.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/angular-material.scss" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/angular-material.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/index.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/layouts/angular-material.layout-attributes.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/layouts/angular-material.layout-attributes.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/layouts/angular-material.layout-attributes.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/layouts/angular-material.layout-attributes.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/layouts/angular-material.layout-attributes.scss" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/layouts/angular-material.layout-attributes.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/layouts/angular-material.layouts.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/layouts/angular-material.layouts.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/layouts/angular-material.layouts.ie_fixes.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/layouts/angular-material.layouts.ie_fixes.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/layouts/angular-material.layouts.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/layouts/angular-material.layouts.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/layouts/angular-material.layouts.scss" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/layouts/angular-material.layouts.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/autocomplete/autocomplete-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/autocomplete/autocomplete-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/autocomplete/autocomplete-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/autocomplete/autocomplete-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/autocomplete/autocomplete.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/autocomplete/autocomplete.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/autocomplete/autocomplete.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/autocomplete/autocomplete.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/autocomplete/autocomplete.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/autocomplete/autocomplete.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/autocomplete/autocomplete.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/autocomplete/autocomplete.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/backdrop/backdrop-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/backdrop/backdrop-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/backdrop/backdrop-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/backdrop/backdrop-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/backdrop/backdrop.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/backdrop/backdrop.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/backdrop/backdrop.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/backdrop/backdrop.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/backdrop/backdrop.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/backdrop/backdrop.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/backdrop/backdrop.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/backdrop/backdrop.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/bottomSheet/bottomSheet-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/bottomSheet/bottomSheet-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/bottomSheet/bottomSheet-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/bottomSheet/bottomSheet-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/bottomSheet/bottomSheet.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/bottomSheet/bottomSheet.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/bottomSheet/bottomSheet.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/bottomSheet/bottomSheet.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/bottomSheet/bottomSheet.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/bottomSheet/bottomSheet.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/bottomSheet/bottomSheet.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/bottomSheet/bottomSheet.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/button/button-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/button/button-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/button/button-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/button/button-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/button/button.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/button/button.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/button/button.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/button/button.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/button/button.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/button/button.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/button/button.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/button/button.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/card/card-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/card/card-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/card/card-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/card/card-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/card/card.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/card/card.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/card/card.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/card/card.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/card/card.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/card/card.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/card/card.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/card/card.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/checkbox/checkbox-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/checkbox/checkbox-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/checkbox/checkbox-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/checkbox/checkbox-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/checkbox/checkbox.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/checkbox/checkbox.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/checkbox/checkbox.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/checkbox/checkbox.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/checkbox/checkbox.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/checkbox/checkbox.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/checkbox/checkbox.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/checkbox/checkbox.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/chips/chips-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/chips/chips-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/chips/chips-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/chips/chips-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/chips/chips.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/chips/chips.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/chips/chips.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/chips/chips.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/chips/chips.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/chips/chips.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/chips/chips.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/chips/chips.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/colors/colors.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/colors/colors.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/colors/colors.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/colors/colors.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/content/content-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/content/content-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/content/content-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/content/content-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/content/content.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/content/content.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/content/content.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/content/content.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/content/content.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/content/content.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/content/content.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/content/content.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/core/core-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/core/core-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/core/core-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/core/core-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/core/core.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/core/core.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/core/core.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/core/core.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/core/core.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/core/core.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/core/core.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/core/core.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/core/default-theme.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/core/default-theme.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/datepicker/datepicker-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/datepicker/datepicker-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/datepicker/datepicker-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/datepicker/datepicker-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/datepicker/datepicker.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/datepicker/datepicker.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/datepicker/datepicker.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/datepicker/datepicker.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/datepicker/datepicker.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/datepicker/datepicker.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/datepicker/datepicker.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/datepicker/datepicker.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/dialog/dialog-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/dialog/dialog-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/dialog/dialog-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/dialog/dialog-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/dialog/dialog.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/dialog/dialog.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/dialog/dialog.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/dialog/dialog.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/dialog/dialog.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/dialog/dialog.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/dialog/dialog.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/dialog/dialog.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/divider/divider-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/divider/divider-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/divider/divider-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/divider/divider-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/divider/divider.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/divider/divider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/divider/divider.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/divider/divider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/divider/divider.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/divider/divider.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/divider/divider.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/divider/divider.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/fabActions/fabActions.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/fabActions/fabActions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/fabActions/fabActions.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/fabActions/fabActions.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/fabSpeedDial/fabSpeedDial.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/fabSpeedDial/fabSpeedDial.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/fabSpeedDial/fabSpeedDial.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/fabSpeedDial/fabSpeedDial.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/fabSpeedDial/fabSpeedDial.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/fabSpeedDial/fabSpeedDial.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/fabSpeedDial/fabSpeedDial.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/fabSpeedDial/fabSpeedDial.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/fabToolbar/fabToolbar.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/fabToolbar/fabToolbar.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/fabToolbar/fabToolbar.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/fabToolbar/fabToolbar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/fabToolbar/fabToolbar.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/fabToolbar/fabToolbar.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/fabToolbar/fabToolbar.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/fabToolbar/fabToolbar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/fabTrigger/fabTrigger.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/fabTrigger/fabTrigger.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/fabTrigger/fabTrigger.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/fabTrigger/fabTrigger.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/gridList/gridList-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/gridList/gridList-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/gridList/gridList.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/gridList/gridList.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/gridList/gridList.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/gridList/gridList.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/gridList/gridList.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/gridList/gridList.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/gridList/gridList.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/gridList/gridList.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/icon/icon-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/icon/icon-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/icon/icon-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/icon/icon-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/icon/icon.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/icon/icon.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/icon/icon.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/icon/icon.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/icon/icon.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/icon/icon.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/icon/icon.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/icon/icon.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/input/input-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/input/input-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/input/input-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/input/input-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/input/input.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/input/input.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/input/input.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/input/input.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/input/input.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/input/input.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/input/input.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/input/input.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/list/list-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/list/list-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/list/list-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/list/list-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/list/list.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/list/list.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/list/list.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/list/list.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/list/list.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/list/list.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/list/list.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/list/list.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/menu/menu-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/menu/menu-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/menu/menu-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/menu/menu-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/menu/menu.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/menu/menu.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/menu/menu.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/menu/menu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/menu/menu.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/menu/menu.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/menu/menu.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/menu/menu.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/menuBar/menuBar-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/menuBar/menuBar-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/menuBar/menuBar-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/menuBar/menuBar-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/menuBar/menuBar.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/menuBar/menuBar.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/menuBar/menuBar.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/menuBar/menuBar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/menuBar/menuBar.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/menuBar/menuBar.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/menuBar/menuBar.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/menuBar/menuBar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/navBar/navBar-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/navBar/navBar-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/navBar/navBar-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/navBar/navBar-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/navBar/navBar.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/navBar/navBar.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/navBar/navBar.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/navBar/navBar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/navBar/navBar.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/navBar/navBar.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/navBar/navBar.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/navBar/navBar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/panel/panel-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/panel/panel-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/panel/panel-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/panel/panel-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/panel/panel.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/panel/panel.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/panel/panel.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/panel/panel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/panel/panel.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/panel/panel.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/panel/panel.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/panel/panel.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/progressCircular/progressCircular-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/progressCircular/progressCircular-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/progressCircular/progressCircular-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/progressCircular/progressCircular-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/progressCircular/progressCircular.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/progressCircular/progressCircular.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/progressCircular/progressCircular.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/progressCircular/progressCircular.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/progressCircular/progressCircular.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/progressCircular/progressCircular.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/progressCircular/progressCircular.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/progressCircular/progressCircular.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/progressLinear/progressLinear-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/progressLinear/progressLinear-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/progressLinear/progressLinear-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/progressLinear/progressLinear-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/progressLinear/progressLinear.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/progressLinear/progressLinear.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/progressLinear/progressLinear.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/progressLinear/progressLinear.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/progressLinear/progressLinear.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/progressLinear/progressLinear.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/progressLinear/progressLinear.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/progressLinear/progressLinear.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/radioButton/radioButton-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/radioButton/radioButton-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/radioButton/radioButton-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/radioButton/radioButton-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/radioButton/radioButton.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/radioButton/radioButton.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/radioButton/radioButton.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/radioButton/radioButton.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/radioButton/radioButton.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/radioButton/radioButton.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/radioButton/radioButton.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/radioButton/radioButton.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/select/select-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/select/select-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/select/select-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/select/select-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/select/select.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/select/select.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/select/select.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/select/select.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/select/select.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/select/select.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/select/select.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/select/select.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/showHide/showHide.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/showHide/showHide.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/showHide/showHide.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/showHide/showHide.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/sidenav/sidenav-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/sidenav/sidenav-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/sidenav/sidenav-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/sidenav/sidenav-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/sidenav/sidenav.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/sidenav/sidenav.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/sidenav/sidenav.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/sidenav/sidenav.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/sidenav/sidenav.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/sidenav/sidenav.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/sidenav/sidenav.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/sidenav/sidenav.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/slider/slider-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/slider/slider-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/slider/slider-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/slider/slider-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/slider/slider.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/slider/slider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/slider/slider.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/slider/slider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/slider/slider.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/slider/slider.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/slider/slider.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/slider/slider.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/sticky/sticky.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/sticky/sticky.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/sticky/sticky.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/sticky/sticky.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/sticky/sticky.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/sticky/sticky.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/sticky/sticky.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/sticky/sticky.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/subheader/subheader-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/subheader/subheader-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/subheader/subheader-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/subheader/subheader-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/subheader/subheader.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/subheader/subheader.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/subheader/subheader.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/subheader/subheader.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/subheader/subheader.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/subheader/subheader.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/subheader/subheader.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/subheader/subheader.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/swipe/swipe.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/swipe/swipe.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/swipe/swipe.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/swipe/swipe.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/switch/switch-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/switch/switch-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/switch/switch-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/switch/switch-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/switch/switch.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/switch/switch.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/switch/switch.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/switch/switch.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/switch/switch.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/switch/switch.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/switch/switch.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/switch/switch.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/tabs/tabs-arrow.svg" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/tabs/tabs-arrow.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/tabs/tabs-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/tabs/tabs-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/tabs/tabs-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/tabs/tabs-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/tabs/tabs.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/tabs/tabs.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/tabs/tabs.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/tabs/tabs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/tabs/tabs.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/tabs/tabs.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/tabs/tabs.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/tabs/tabs.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/textField/textField-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/textField/textField-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/textField/textField.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/textField/textField.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/textField/textField.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/textField/textField.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/toast/toast-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/toast/toast-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/toast/toast-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/toast/toast-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/toast/toast.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/toast/toast.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/toast/toast.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/toast/toast.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/toast/toast.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/toast/toast.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/toast/toast.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/toast/toast.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/toolbar/toolbar-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/toolbar/toolbar-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/toolbar/toolbar-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/toolbar/toolbar-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/toolbar/toolbar.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/toolbar/toolbar.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/toolbar/toolbar.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/toolbar/toolbar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/toolbar/toolbar.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/toolbar/toolbar.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/toolbar/toolbar.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/toolbar/toolbar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/tooltip/tooltip-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/tooltip/tooltip-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/tooltip/tooltip-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/tooltip/tooltip-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/tooltip/tooltip.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/tooltip/tooltip.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/tooltip/tooltip.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/tooltip/tooltip.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/tooltip/tooltip.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/tooltip/tooltip.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/tooltip/tooltip.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/tooltip/tooltip.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/virtualRepeat/virtualRepeat.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/virtualRepeat/virtualRepeat.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/virtualRepeat/virtualRepeat.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/virtualRepeat/virtualRepeat.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/virtualRepeat/virtualRepeat.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/virtualRepeat/virtualRepeat.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/virtualRepeat/virtualRepeat.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/virtualRepeat/virtualRepeat.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/whiteframe/whiteframe.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/whiteframe/whiteframe.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/whiteframe/whiteframe.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/whiteframe/whiteframe.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/whiteframe/whiteframe.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/whiteframe/whiteframe.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/closure/whiteframe/whiteframe.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/closure/whiteframe/whiteframe.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/autocomplete/autocomplete-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/autocomplete/autocomplete-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/autocomplete/autocomplete-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/autocomplete/autocomplete-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/autocomplete/autocomplete.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/autocomplete/autocomplete.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/autocomplete/autocomplete.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/autocomplete/autocomplete.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/autocomplete/autocomplete.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/autocomplete/autocomplete.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/autocomplete/autocomplete.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/autocomplete/autocomplete.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/autocomplete/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/autocomplete/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/backdrop/backdrop-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/backdrop/backdrop-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/backdrop/backdrop-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/backdrop/backdrop-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/backdrop/backdrop.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/backdrop/backdrop.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/backdrop/backdrop.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/backdrop/backdrop.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/backdrop/backdrop.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/backdrop/backdrop.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/backdrop/backdrop.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/backdrop/backdrop.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/backdrop/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/backdrop/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/bottomSheet/bottomSheet-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/bottomSheet/bottomSheet-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/bottomSheet/bottomSheet-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/bottomSheet/bottomSheet-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/bottomSheet/bottomSheet.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/bottomSheet/bottomSheet.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/bottomSheet/bottomSheet.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/bottomSheet/bottomSheet.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/bottomSheet/bottomSheet.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/bottomSheet/bottomSheet.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/bottomSheet/bottomSheet.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/bottomSheet/bottomSheet.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/bottomSheet/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/bottomSheet/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/button/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/button/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/button/button-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/button/button-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/button/button-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/button/button-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/button/button.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/button/button.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/button/button.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/button/button.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/button/button.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/button/button.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/button/button.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/button/button.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/card/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/card/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/card/card-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/card/card-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/card/card-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/card/card-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/card/card.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/card/card.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/card/card.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/card/card.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/card/card.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/card/card.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/card/card.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/card/card.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/checkbox/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/checkbox/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/checkbox/checkbox-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/checkbox/checkbox-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/checkbox/checkbox-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/checkbox/checkbox-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/checkbox/checkbox.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/checkbox/checkbox.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/checkbox/checkbox.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/checkbox/checkbox.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/checkbox/checkbox.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/checkbox/checkbox.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/checkbox/checkbox.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/checkbox/checkbox.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/chips/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/chips/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/chips/chips-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/chips/chips-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/chips/chips-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/chips/chips-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/chips/chips.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/chips/chips.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/chips/chips.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/chips/chips.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/chips/chips.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/chips/chips.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/chips/chips.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/chips/chips.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/colors/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/colors/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/colors/colors.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/colors/colors.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/colors/colors.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/colors/colors.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/content/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/content/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/content/content-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/content/content-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/content/content-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/content/content-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/content/content.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/content/content.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/content/content.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/content/content.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/content/content.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/content/content.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/content/content.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/content/content.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/core/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/core/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/core/core-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/core/core-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/core/core-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/core/core-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/core/core.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/core/core.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/core/core.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/core/core.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/core/core.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/core/core.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/core/core.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/core/core.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/core/default-theme.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/core/default-theme.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/datepicker/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/datepicker/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/datepicker/datepicker-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/datepicker/datepicker-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/datepicker/datepicker-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/datepicker/datepicker-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/datepicker/datepicker.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/datepicker/datepicker.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/datepicker/datepicker.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/datepicker/datepicker.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/datepicker/datepicker.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/datepicker/datepicker.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/datepicker/datepicker.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/datepicker/datepicker.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/dialog/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/dialog/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/dialog/dialog-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/dialog/dialog-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/dialog/dialog-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/dialog/dialog-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/dialog/dialog.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/dialog/dialog.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/dialog/dialog.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/dialog/dialog.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/dialog/dialog.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/dialog/dialog.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/dialog/dialog.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/dialog/dialog.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/divider/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/divider/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/divider/divider-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/divider/divider-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/divider/divider-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/divider/divider-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/divider/divider.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/divider/divider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/divider/divider.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/divider/divider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/divider/divider.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/divider/divider.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/divider/divider.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/divider/divider.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabActions/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabActions/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabActions/fabActions.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabActions/fabActions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabActions/fabActions.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabActions/fabActions.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabSpeedDial/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabSpeedDial/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabSpeedDial/fabSpeedDial.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabSpeedDial/fabSpeedDial.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabSpeedDial/fabSpeedDial.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabSpeedDial/fabSpeedDial.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabSpeedDial/fabSpeedDial.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabSpeedDial/fabSpeedDial.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabSpeedDial/fabSpeedDial.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabSpeedDial/fabSpeedDial.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabToolbar/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabToolbar/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabToolbar/fabToolbar.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabToolbar/fabToolbar.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabToolbar/fabToolbar.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabToolbar/fabToolbar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabToolbar/fabToolbar.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabToolbar/fabToolbar.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabToolbar/fabToolbar.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabToolbar/fabToolbar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabTrigger/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabTrigger/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabTrigger/fabTrigger.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabTrigger/fabTrigger.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/fabTrigger/fabTrigger.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/fabTrigger/fabTrigger.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/gridList/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/gridList/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/gridList/gridList.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/gridList/gridList.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/gridList/gridList.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/gridList/gridList.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/gridList/gridList.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/gridList/gridList.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/gridList/gridList.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/gridList/gridList.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/icon/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/icon/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/icon/icon-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/icon/icon-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/icon/icon-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/icon/icon-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/icon/icon.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/icon/icon.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/icon/icon.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/icon/icon.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/icon/icon.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/icon/icon.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/icon/icon.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/icon/icon.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/input/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/input/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/input/input-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/input/input-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/input/input-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/input/input-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/input/input.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/input/input.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/input/input.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/input/input.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/input/input.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/input/input.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/input/input.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/input/input.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/list/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/list/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/list/list-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/list/list-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/list/list-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/list/list-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/list/list.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/list/list.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/list/list.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/list/list.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/list/list.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/list/list.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/list/list.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/list/list.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/menu/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/menu/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/menu/menu-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/menu/menu-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/menu/menu-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/menu/menu-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/menu/menu.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/menu/menu.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/menu/menu.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/menu/menu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/menu/menu.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/menu/menu.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/menu/menu.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/menu/menu.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/menuBar/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/menuBar/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/menuBar/menuBar-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/menuBar/menuBar-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/menuBar/menuBar-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/menuBar/menuBar-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/menuBar/menuBar.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/menuBar/menuBar.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/menuBar/menuBar.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/menuBar/menuBar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/menuBar/menuBar.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/menuBar/menuBar.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/menuBar/menuBar.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/menuBar/menuBar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/navBar/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/navBar/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/navBar/navBar-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/navBar/navBar-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/navBar/navBar-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/navBar/navBar-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/navBar/navBar.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/navBar/navBar.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/navBar/navBar.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/navBar/navBar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/navBar/navBar.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/navBar/navBar.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/navBar/navBar.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/navBar/navBar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/panel/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/panel/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/panel/panel-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/panel/panel-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/panel/panel-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/panel/panel-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/panel/panel.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/panel/panel.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/panel/panel.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/panel/panel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/panel/panel.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/panel/panel.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/panel/panel.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/panel/panel.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/progressCircular/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/progressCircular/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/progressCircular/progressCircular-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/progressCircular/progressCircular-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/progressCircular/progressCircular-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/progressCircular/progressCircular-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/progressCircular/progressCircular.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/progressCircular/progressCircular.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/progressCircular/progressCircular.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/progressCircular/progressCircular.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/progressCircular/progressCircular.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/progressCircular/progressCircular.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/progressCircular/progressCircular.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/progressCircular/progressCircular.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/progressLinear/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/progressLinear/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/progressLinear/progressLinear-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/progressLinear/progressLinear-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/progressLinear/progressLinear-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/progressLinear/progressLinear-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/progressLinear/progressLinear.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/progressLinear/progressLinear.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/progressLinear/progressLinear.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/progressLinear/progressLinear.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/progressLinear/progressLinear.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/progressLinear/progressLinear.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/progressLinear/progressLinear.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/progressLinear/progressLinear.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/radioButton/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/radioButton/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/radioButton/radioButton-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/radioButton/radioButton-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/radioButton/radioButton-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/radioButton/radioButton-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/radioButton/radioButton.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/radioButton/radioButton.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/radioButton/radioButton.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/radioButton/radioButton.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/radioButton/radioButton.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/radioButton/radioButton.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/radioButton/radioButton.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/radioButton/radioButton.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/select/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/select/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/select/select-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/select/select-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/select/select-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/select/select-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/select/select.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/select/select.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/select/select.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/select/select.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/select/select.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/select/select.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/select/select.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/select/select.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/showHide/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/showHide/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/showHide/showHide.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/showHide/showHide.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/showHide/showHide.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/showHide/showHide.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/sidenav/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/sidenav/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/sidenav/sidenav-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/sidenav/sidenav-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/sidenav/sidenav-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/sidenav/sidenav-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/sidenav/sidenav.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/sidenav/sidenav.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/sidenav/sidenav.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/sidenav/sidenav.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/sidenav/sidenav.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/sidenav/sidenav.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/sidenav/sidenav.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/sidenav/sidenav.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/slider/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/slider/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/slider/slider-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/slider/slider-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/slider/slider-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/slider/slider-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/slider/slider.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/slider/slider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/slider/slider.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/slider/slider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/slider/slider.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/slider/slider.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/slider/slider.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/slider/slider.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/sticky/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/sticky/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/sticky/sticky.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/sticky/sticky.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/sticky/sticky.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/sticky/sticky.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/sticky/sticky.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/sticky/sticky.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/sticky/sticky.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/sticky/sticky.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/subheader/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/subheader/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/subheader/subheader-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/subheader/subheader-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/subheader/subheader-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/subheader/subheader-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/subheader/subheader.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/subheader/subheader.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/subheader/subheader.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/subheader/subheader.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/subheader/subheader.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/subheader/subheader.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/subheader/subheader.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/subheader/subheader.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/swipe/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/swipe/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/swipe/swipe.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/swipe/swipe.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/swipe/swipe.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/swipe/swipe.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/switch/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/switch/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/switch/switch-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/switch/switch-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/switch/switch-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/switch/switch-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/switch/switch.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/switch/switch.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/switch/switch.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/switch/switch.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/switch/switch.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/switch/switch.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/switch/switch.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/switch/switch.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/tabs/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/tabs/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/tabs/tabs-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/tabs/tabs-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/tabs/tabs-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/tabs/tabs-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/tabs/tabs.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/tabs/tabs.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/tabs/tabs.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/tabs/tabs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/tabs/tabs.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/tabs/tabs.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/tabs/tabs.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/tabs/tabs.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/textField/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/textField/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/textField/textField-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/textField/textField-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/textField/textField-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/textField/textField-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/textField/textField.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/textField/textField.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/textField/textField.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/textField/textField.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/textField/textField.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/textField/textField.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/textField/textField.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/textField/textField.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/toast/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/toast/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/toast/toast-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/toast/toast-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/toast/toast-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/toast/toast-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/toast/toast.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/toast/toast.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/toast/toast.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/toast/toast.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/toast/toast.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/toast/toast.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/toast/toast.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/toast/toast.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/toolbar/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/toolbar/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/toolbar/toolbar-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/toolbar/toolbar-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/toolbar/toolbar-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/toolbar/toolbar-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/toolbar/toolbar.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/toolbar/toolbar.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/toolbar/toolbar.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/toolbar/toolbar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/toolbar/toolbar.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/toolbar/toolbar.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/toolbar/toolbar.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/toolbar/toolbar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/tooltip/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/tooltip/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/tooltip/tooltip-default-theme.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/tooltip/tooltip-default-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/tooltip/tooltip-default-theme.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/tooltip/tooltip-default-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/tooltip/tooltip.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/tooltip/tooltip.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/tooltip/tooltip.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/tooltip/tooltip.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/tooltip/tooltip.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/tooltip/tooltip.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/tooltip/tooltip.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/tooltip/tooltip.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/virtualRepeat/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/virtualRepeat/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/virtualRepeat/virtualRepeat.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/virtualRepeat/virtualRepeat.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/virtualRepeat/virtualRepeat.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/virtualRepeat/virtualRepeat.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/virtualRepeat/virtualRepeat.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/virtualRepeat/virtualRepeat.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/virtualRepeat/virtualRepeat.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/virtualRepeat/virtualRepeat.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/whiteframe/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/whiteframe/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/whiteframe/whiteframe.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/whiteframe/whiteframe.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/whiteframe/whiteframe.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/whiteframe/whiteframe.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/whiteframe/whiteframe.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/whiteframe/whiteframe.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/js/whiteframe/whiteframe.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/js/whiteframe/whiteframe.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/layouts/angular-material.layout-attributes.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/layouts/angular-material.layout-attributes.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/layouts/angular-material.layout-attributes.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/layouts/angular-material.layout-attributes.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/layouts/angular-material.layouts.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/layouts/angular-material.layouts.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/layouts/angular-material.layouts.ie_fixes.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/layouts/angular-material.layouts.ie_fixes.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/layouts/angular-material.layouts.min.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/layouts/angular-material.layouts.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/scss/angular-material.layout-attributes.scss" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/scss/angular-material.layout-attributes.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/scss/angular-material.layouts.scss" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/scss/angular-material.layouts.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/modules/scss/angular-material.scss" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/modules/scss/angular-material.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-material/package.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-material/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-resource/LICENSE.md" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-resource/LICENSE.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-resource/README.md" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-resource/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-resource/angular-resource.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-resource/angular-resource.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-resource/angular-resource.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-resource/angular-resource.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-resource/angular-resource.min.js.map" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-resource/angular-resource.min.js.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-resource/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-resource/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-resource/index.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-resource/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular-resource/package.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular-resource/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular/LICENSE.md" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular/LICENSE.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular/README.md" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular/angular-csp.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular/angular-csp.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular/angular.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular/angular.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular/angular.min.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular/angular.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular/angular.min.js.gzip" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular/angular.min.js.gzip" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular/angular.min.js.map" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular/angular.min.js.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular/bower.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular/index.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/node_modules/angular/package.json" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/node_modules/angular/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Decode-LLC-task/styles.css" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/styles.css" />
     </list>
     <ignored path="PavelOfficial.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,14 +626,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Decode-LLC-task/styles.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding>
-                <element signature="e#475#4410#2" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,9 +654,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="width" value="1249" />
-    <option name="height" value="1440" />
+    <option name="x" value="1330" />
+    <option name="y" value="237" />
+    <option name="width" value="1221" />
+    <option name="height" value="1134" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -85,7 +685,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -103,23 +702,24 @@
               <option name="myItemId" value="PavelOfficial.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Decode-LLC-task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Decode-LLC-task" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="F:\Program Files\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\projects\PavelOfficial.github.io\samples" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\PavelOfficial.github.io\samples\searchinform-test-task" />
       <recent name="F:\projects\PavelOfficial.github.io\Decode-LLC-task" />
     </key>
   </component>
@@ -195,7 +795,8 @@
       <workItem from="1479385863050" duration="755000" />
       <workItem from="1479388394472" duration="13000" />
       <workItem from="1479809785769" duration="285000" />
-      <workItem from="1479810156730" duration="2062000" />
+      <workItem from="1479810156730" duration="2480000" />
+      <workItem from="1480103982027" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="upload Decode LLC task">
       <created>1479810202387</created>
@@ -211,22 +812,36 @@
       <option name="project" value="LOCAL" />
       <updated>1479810344633</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="upload Decode LLC task">
+      <created>1479813845200</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1479813845200</updated>
+    </task>
+    <task id="LOCAL-00004" summary="search inform test task">
+      <created>1480104143648</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1480104143648</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4079000" />
+    <option name="totallyTimeSpent" value="4797000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="0" width="1249" height="1440" extended-state="0" />
-    <editor active="false" />
+    <frame x="1330" y="237" width="1221" height="1134" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29975227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2781065" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23853211" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.253493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -251,43 +866,47 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="upload Decode LLC task" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload Decode LLC task" />
+    <MESSAGE value="search inform test task" />
+    <MESSAGE value="portfolio workpiece" />
+    <option name="LAST_COMMIT_MESSAGE" value="portfolio workpiece" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Decode-LLC-task/app/dev-index.html">
+    <entry file="file://$PROJECT_DIR$/samples/Decode-LLC-task/app/dev-index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Decode-LLC-task/app/styl/icons.css">
+    <entry file="file://$PROJECT_DIR$/samples/Decode-LLC-task/app/styl/icons.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Decode-LLC-task/app/styl/icons.css">
+    <entry file="file://$PROJECT_DIR$/samples/Decode-LLC-task/app/styl/icons.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Decode-LLC-task/app/dev-index.html">
+    <entry file="file://$PROJECT_DIR$/samples/Decode-LLC-task/app/dev-index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Decode-LLC-task/index.html">
+    <entry file="file://$PROJECT_DIR$/samples/Decode-LLC-task/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
@@ -295,7 +914,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Decode-LLC-task/app/todo/profileInfo.directive.js">
+    <entry file="file://$PROJECT_DIR$/samples/Decode-LLC-task/app/todo/profileInfo.directive.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
@@ -303,7 +922,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Decode-LLC-task/app/todo/todo.controller.js">
+    <entry file="file://$PROJECT_DIR$/samples/Decode-LLC-task/app/todo/todo.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
@@ -311,7 +930,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Decode-LLC-task/build.js">
+    <entry file="file://$PROJECT_DIR$/samples/Decode-LLC-task/build.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
@@ -319,13 +938,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Decode-LLC-task/styles.css">
+    <entry file="file://$PROJECT_DIR$/samples/Decode-LLC-task/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="e#475#4410#2" expanded="true" />
-          </folding>
+        <state relative-caret-position="425">
+          <caret line="17" column="802" selection-start-line="17" selection-start-column="802" selection-end-line="17" selection-end-column="802" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/searchinform-test-task/fonts/robotoregular-webfont.eot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
