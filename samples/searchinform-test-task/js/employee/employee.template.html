@@ -1,0 +1,39 @@
+
+
+
+<div class="page-header jumbotron">
+    <h1>Сотрудник</h1>
+</div>
+
+<div class="employee-navbar">
+    <nav class="navbar navbar-default container employee-navbar">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#!/departments/">
+                Отделы
+            </a>
+            <a class="navbar-brand" href="#!/departments/{{$ctrl.employee.department.id}}/employees">
+                {{$ctrl.employee.department.name}}
+            </a>
+        </div>
+    </nav>
+</div>
+
+<div class="employee-catalog container">
+    <div class="media employee-item">
+        <div class="media-left">
+            <img class="avatar-image" data-ng-src="{{ $ctrl.employee.photo }}">
+        </div>
+        <div class="media-body">
+            <h4>{{ $ctrl.employee.name }}</h4>
+            <p>
+                <span class="field-hint">Телефон:</span> {{ $ctrl.employee.phone }}
+            </p>
+            <p>
+                <span class="field-hint">Отдел:</span> {{ $ctrl.employee.department.name }}
+            </p>
+        </div>
+    </div>
+</div>
+<footer class="footer">
+</footer>
+

@@ -1,0 +1,16 @@
+
+<div class="page-header jumbotron">
+    <h1>Отделы</h1>
+</div>
+
+<div class="employee-catalog container">
+    <ul>
+        <li class="col-lg-3 col-md-4 col-sm-6" ng-repeat="department in $ctrl.departmentList">
+            <a class="department-button" href="#!/departments/{{department.id}}/employees">
+                <span>{{department.name}}</span>
+            </a>
+        </li>
+    </ul>
+</div>
+<footer class="footer">
+</footer>
