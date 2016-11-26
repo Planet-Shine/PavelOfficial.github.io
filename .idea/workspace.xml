@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/js/experienceList/experienceList.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/js/experienceList/experienceList.module.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/js/experienceList/experienceList.template.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/js/personalPage/personalPage.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/js/personalPage/personalPage.module.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/app/js/personalPage/personalPage.template.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/page-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/page-2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/templates/index.ejs" afterPath="$PROJECT_DIR$/build/app/templates/index.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/gulpfile.js" afterPath="$PROJECT_DIR$/build/gulpfile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/js/app.config.js" afterPath="$PROJECT_DIR$/build/app/templates/contactList.ejs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/js/app.module.js" afterPath="$PROJECT_DIR$/build/app/templates/experienceList.ejs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/js/contacts/contacts.component.js" afterPath="$PROJECT_DIR$/build/app/templates/footer.ejs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/js/contacts/contacts.module.js" afterPath="$PROJECT_DIR$/build/app/templates/goodyList.ejs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/js/contacts/contacts.template.html" afterPath="$PROJECT_DIR$/build/app/templates/header.ejs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/js/experienceDetail/experienceDetail.component.js" afterPath="$PROJECT_DIR$/build/app/templates/personalPage.ejs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/js/experienceDetail/experienceDetail.module.js" afterPath="$PROJECT_DIR$/samples/Decode-LLC-task/description.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/js/experienceDetail/experienceDetail.template.html" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/description.json" />
     </list>
     <ignored path="PavelOfficial.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,8 +38,8 @@
       <file leaf-file-name="page-1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/experiences/page-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+            <state relative-caret-position="153">
+              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -159,8 +145,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="785" />
-    <option name="y" value="436" />
+    <option name="x" value="231" />
+    <option name="y" value="435" />
     <option name="width" value="1342" />
     <option name="height" value="879" />
   </component>
@@ -205,20 +191,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PavelOfficial.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PavelOfficial.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PavelOfficial.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="experiences" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -324,7 +296,7 @@
       <workItem from="1480103982027" duration="2179000" />
       <workItem from="1480107535886" duration="15000" />
       <workItem from="1480173698712" duration="366000" />
-      <workItem from="1480181157239" duration="14756000" />
+      <workItem from="1480181157239" duration="14802000" />
     </task>
     <task id="LOCAL-00001" summary="upload Decode LLC task">
       <created>1479810202387</created>
@@ -396,14 +368,21 @@
       <option name="project" value="LOCAL" />
       <updated>1480185470750</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="portfolio workpiece">
+      <created>1480197480572</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1480197480572</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21813000" />
+    <option name="totallyTimeSpent" value="21859000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="785" y="436" width="1342" height="879" extended-state="0" />
+    <frame x="231" y="435" width="1342" height="879" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19785276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -811,8 +790,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/experiences/page-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+        <state relative-caret-position="153">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
           <folding />
         </state>
       </provider>
