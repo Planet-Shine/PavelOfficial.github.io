@@ -1,0 +1,32 @@
+
+<%- include('./header.ejs', {
+    title : '',
+    keywords : '',
+    description : '',
+    styles : styles
+}) -%>
+
+<ul>
+
+
+    <% for (var index = 0; index < experienceList.length; index += 1) { -%>
+        <li>
+            <%= experienceList[index].name -%>
+        </li>
+    <% } %>
+</ul>
+
+<ul>
+    <% for (var index = 1; index < pageCount + 1; index += 1) { -%>
+        <li>
+            <a href="./page-<%= index %>.html">
+                <%= index %>
+            </a>
+        </li>
+    <% } %>
+</ul>
+
+
+<%- include('./footer.ejs', {
+    scripts : scripts
+}) -%>

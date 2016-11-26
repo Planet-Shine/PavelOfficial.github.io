@@ -18,7 +18,7 @@
     <meta property="fb:app_id" content="606902642827463"/>
 
     <% if (description) { %>
-        <meta name="description" content="<%= description -%>" />
+    <meta name="description" content="<%= description -%>" />
     <% } %>
 
     <% if (keywords) { %>
@@ -27,12 +27,12 @@
 
     <meta property="og:title"
           content="<%= title -%>" />
-    <!-- <meta property="og:image" content="<%= siteHost -%>/css/site-img.png" /> -->
+    <!-- <meta property="og:image" content=" %= siteHost -% /css/site-img.png" /> -->
     <% if (description) { %>
         <meta property="og:description" content="<%= description -%>" />
     <% } %>
 
-    <!-- <meta property="og:url" content="<%= currentUrl -%>" /> -->
+    <!-- <meta property="og:url" content=" %= currentUrl -% " /> -->
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="" />
     <meta property="og:locale" content="ru_RU" />
@@ -42,14 +42,10 @@
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
 </head>
 <body>
 
-
-<%- scripts %>
-</body>
-</html>

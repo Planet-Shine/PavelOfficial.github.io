@@ -1,0 +1,13 @@
+<% layout('./index') -%>
+
+<% block('title', '') -%>
+<% block('keywords', '') -%>
+<% block('description', '') -%>
+
+<ul>
+    <% for (var index = 0; index < goodies.length; index += 1) { -%>
+        <li>
+            <%= goodies[index].name -%>
+        </li>
+    <% } %>
+</ul>
