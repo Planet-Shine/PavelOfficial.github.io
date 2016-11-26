@@ -4,6 +4,7 @@ angular.module('employeeCatalog', [
     'employeeTemplates',
     'LocalStorageModule',
     'ngRoute',
+    'avatarUploader',
     'departmentList',
     'employeeList',
     'employee'

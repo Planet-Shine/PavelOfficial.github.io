@@ -3,41 +3,36 @@
 angular
     .module('employeeCatalog')
     .service('employeeData', ['$http', 'localStorageService', function ($http, localStorageService) {
-        var data,
-            employeeData,
-            callbacks = [];
+        var data;
 
-        function margeData (data) {
-            var departments = data.departments,
-                employees   = data.employees,
-                photos      = data.photos;
+        function saveToLocalStorage (data) {
 
-            employees.forEach(function (employee) {
-                var photoId = employee.photo,
-                    photo   = _.findWhere(photos, {
-                            'id' : photoId
-                        }) || {},
-                    department = _.findWhere(departments, {
-                            'id' : employee.department
-                        }) || {};
+            function setCollectionToLocalStorage (data, name) {
+                var collection = data[name],
+                    ids;
 
-                employee.photo        = photo['data'] || null;
-                employee.department   = department || null;
-                employee.departmentId = department.id || null;
-            });
+                ids = collection.map(function (item) {
+                    return item.id;
+                });
+                localStorageService.set(name + 'Ids', ids);
+                collection.forEach(function (item) {
+                    localStorageService.set(name + '#' + item.id, item);
+                });
+            }
 
-            return data;
+            setCollectionToLocalStorage(data, 'departments');
+            setCollectionToLocalStorage(data, 'employees');
+            setCollectionToLocalStorage(data, 'photos');
+
+            localStorageService.set('isThereEmployeeData', true);
         }
 
-
-        this.getData = function (callback) {
-            if (employeeData) {
-                callback(employeeData);
-            } else if (localStorageService.isSupported) {
-                employeeData = localStorageService.get('employeeData');
-                if (employeeData) {
-                    employeeData = margeData(employeeData);
-                    callback(employeeData);
+        this.afterDataIsInLocalStorage = function (callback) {
+            var isThereEmployeeData;
+            if (localStorageService.isSupported) {
+                isThereEmployeeData = localStorageService.get('isThereEmployeeData');
+                if (isThereEmployeeData) {
+                    callback();
                 } else {
                     getDataThroughHttp();
                 }
@@ -48,12 +43,10 @@ angular
             function getDataThroughHttp () {
                 $http.get('./data.json')
                     .then(function (response) {
-                        employeeData = response.data;
                         if (localStorageService.isSupported) {
-                            localStorageService.set('employeeData', employeeData);
+                            saveToLocalStorage(response.data);
                         }
-                        employeeData = margeData(employeeData);
-                        callback(margeData(employeeData));
+                        callback();
                     });
             }
         };

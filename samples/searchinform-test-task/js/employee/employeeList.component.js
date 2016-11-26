@@ -4,7 +4,7 @@ angular
     .module('employeeList')
     .component('employeeList', {
         'templateUrl' : 'js/employee/employeeList.template.html',
-        'controller'  : ['employeeData', '$scope', '$routeParams', function (employeeData, $scope, $routeParams) {
+        'controller'  : ['employeeData', '$scope', '$routeParams', 'localStorageService', function (employeeData, $scope, $routeParams, localStorageService) {
             var self         = this,
                 departmentId = $routeParams.departmentId;
 
@@ -16,13 +16,16 @@ angular
             this.setDepartment = function (department) {
                 this.department = department;
             };
-            employeeData.getData(function (data) {
-                self.setEmployeeList(_.where(data.employees, {
-                    'departmentId' : departmentId
-                }));
-                self.setDepartment(_.findWhere(data.departments, {
-                    'id' : departmentId
-                }));
+            employeeData.afterDataIsInLocalStorage(function () {
+                var ids    = localStorageService.get('employeesIds'),
+                    result = ids.map(function (id) {
+                        return localStorageService.get('employees#' + id);
+                    }).filter(function (employee) {
+                        return employee.department === departmentId;
+                    });
+                self.setEmployeeList(result);
+                self.setDepartment(localStorageService.get('departments#' + departmentId));
             });
+
         }]
     });

@@ -1,41 +1,46 @@
 
 <div class="page-header jumbotron">
-    <h1>Сотрудники</h1>
-    <h2>отдела «{{$ctrl.department.name}}»</h2>
+    <div ng-if="$ctrl.department">
+        <h1>Сотрудники</h1>
+        <h2>отдела «{{$ctrl.department.name}}»</h2>
+    </div>
+    <h2 ng-if="!$ctrl.department">
+        Нет такого отдела
+    </h2>
 </div>
 
 <div class="employee-navbar">
-    <nav class="navbar navbar-default container employee-navbar">
+    <nav class="navbar navbar-default container employee-navbar department-list-container">
         <div class="container-fluid">
             <a class="navbar-brand" href="#!/departments/">Отделы</a>
         </div>
     </nav>
 </div>
 
-<div class="employee-catalog container">
+<div ng-if="$ctrl.department" class="employee-catalog container department-list-container">
     <h3 class="official-info-header" ng-if="!$ctrl.employeeList.length">Отдел пуст</h3>
+    <h3 class="employee-count">{{ $ctrl.employeeList.length }} сотрудник{{ ($ctrl.employeeList.length > 10 && $ctrl.employeeList.length < 19) ? 'ов' : {
+            0 : 'ов',
+            1 : '',
+            2 : 'а',
+            3 : 'а',
+            4 : 'а',
+            5 : 'ов',
+            6 : 'ов',
+            7 : 'ов',
+            8 : 'ов',
+            9 : 'ов',
+        }[$ctrl.employeeList.length % 10] }}:</h3>
     <ul>
-        <li class="media employee-item col-lg-4 col-md-6 col-sm-6" ng-repeat="employee in $ctrl.employeeList">
-            <!-- <div alt="{{employee.name}}"
-                 style="width: 150px; height:150px;"
-                 ng-style="{'background-image' : 'url(\'' + employee.photo.data + '\')'}">
-            </div> -->
+        <li class="media employee-item" ng-repeat="employee in $ctrl.employeeList">
             <div class="media-left">
-                <a href="#!/employees/{{employee.id}}">
-                    <img class="avatar-image" data-ng-src="{{employee.photo}}">
-                </a>
-            </div>
-            <div class="media-body">
-                <h4>{{employee.name}}</h4>
-                <p>
-                    <span class="field-hint">Телефон:</span> {{employee.phone}}
-                </p>
-            </div>
-            <div class="media-right">
                 <a href="#!/employees/{{employee.id}}"
                    class="btn btn-default pull-right" >
                     <div class="glyphicon glyphicon-file"></div>
                 </a>
+            </div>
+            <div class="media-body">
+                <h4>{{employee.name}}</h4>
             </div>
         </li>
     </ul>
