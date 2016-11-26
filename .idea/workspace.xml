@@ -1,27 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/ptserif-bold-italic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/ptserif-bold-italic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/ptserif-bold-italic-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/ptserif-bold-italic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/templates/index.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/bundle.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/package.json" />
+    <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="portfolio workpiece">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/ptserif-bold-italic-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/ptserif-bold-italic-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/ptserif-bold-italic-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/robotoregular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/robotoregular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/robotoregular-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/js/app.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/js/app.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/js/contacts/contacts.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/js/contacts/contacts.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/js/contacts/contacts.template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/js/experienceDetail/experienceDetail.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/js/experienceDetail/experienceDetail.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/js/experienceDetail/experienceDetail.template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/js/experienceList/experienceList.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/js/experienceList/experienceList.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/js/experienceList/experienceList.template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/js/personalPage/personalPage.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/js/personalPage/personalPage.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/js/personalPage/personalPage.template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/ptserif-bold-italic-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/robotoregular-webfont.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app/templates/index.ejs" afterPath="$PROJECT_DIR$/build/app/templates/index.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/fonts/ptserif-bold-italic-webfont.svg" afterPath="$PROJECT_DIR$/static/fonts/ptserif-bold-italic-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/fonts/ptserif-bold-italic-webfont.ttf" afterPath="$PROJECT_DIR$/static/fonts/ptserif-bold-italic-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/fonts/ptserif-bold-italic-webfont.woff" afterPath="$PROJECT_DIR$/static/fonts/ptserif-bold-italic-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/fonts/ptserif-bold-italic-webfont.woff2" afterPath="$PROJECT_DIR$/static/fonts/ptserif-bold-italic-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.eot" afterPath="$PROJECT_DIR$/static/fonts/robotoregular-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.svg" afterPath="$PROJECT_DIR$/static/fonts/robotoregular-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.ttf" afterPath="$PROJECT_DIR$/static/fonts/robotoregular-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.woff" afterPath="$PROJECT_DIR$/static/fonts/robotoregular-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.woff2" afterPath="$PROJECT_DIR$/static/fonts/robotoregular-webfont.woff2" />
     </list>
     <ignored path="PavelOfficial.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,48 +64,7 @@
     <favorites_list name="PavelOfficial.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bundle.config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/bundle.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/app/templates/index.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,6 +74,7 @@
       <list>
         <option value="$PROJECT_DIR$/Decode-LLC-task/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/build/app/templates/index.ejs" />
       </list>
     </option>
   </component>
@@ -101,9 +84,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1251" />
-    <option name="width" value="1309" />
-    <option name="height" value="1440" />
+    <option name="x" value="671" />
+    <option name="y" value="95" />
+    <option name="width" value="1544" />
+    <option name="height" value="1289" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -148,6 +132,10 @@
               <option name="myItemId" value="PavelOfficial.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -156,10 +144,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PavelOfficial.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -182,11 +166,11 @@
       <recent name="F:\projects\PavelOfficial.github.io\samples" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\PavelOfficial.github.io\static" />
       <recent name="F:\projects\PavelOfficial.github.io\build\app\templates" />
       <recent name="F:\projects\PavelOfficial.github.io\build\app" />
       <recent name="F:\projects\PavelOfficial.github.io" />
       <recent name="F:\projects\PavelOfficial.github.io\samples\searchinform-test-task" />
-      <recent name="F:\projects\PavelOfficial.github.io\samples\searchinform-test-task\static" />
     </key>
   </component>
   <component name="RunManager">
@@ -265,7 +249,7 @@
       <workItem from="1480103982027" duration="2179000" />
       <workItem from="1480107535886" duration="15000" />
       <workItem from="1480173698712" duration="366000" />
-      <workItem from="1480181157239" duration="460000" />
+      <workItem from="1480181157239" duration="3354000" />
     </task>
     <task id="LOCAL-00001" summary="upload Decode LLC task">
       <created>1479810202387</created>
@@ -323,23 +307,30 @@
       <option name="project" value="LOCAL" />
       <updated>1480173741686</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="portfolio workpiece">
+      <created>1480181677443</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1480181677443</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7517000" />
+    <option name="totallyTimeSpent" value="10411000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1251" y="0" width="1309" height="1440" extended-state="0" />
+    <frame x="671" y="95" width="1544" height="1289" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31235248" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24236389" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36287242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26274848" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -367,9 +358,9 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="upload Decode LLC task" />
     <MESSAGE value="search inform test task" />
-    <MESSAGE value="portfolio workpiece" />
     <MESSAGE value="searchinform test task fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="searchinform test task fix" />
+    <MESSAGE value="portfolio workpiece" />
+    <option name="LAST_COMMIT_MESSAGE" value="portfolio workpiece" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -494,18 +485,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/app/templates/index.ejs">
+    <entry file="file://$PROJECT_DIR$/build/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/build/app/js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/js/app.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/js/app.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/js/contacts/contacts.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/js/contacts/contacts.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/js/experienceDetail/experienceDetail.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/js/experienceDetail/experienceDetail.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/js/personalPage/personalPage.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/js/contacts/contacts.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/js/personalPage/personalPage.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/templates/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/fonts/robotoregular-webfont.eot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/js/experienceList/experienceList.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/js/experienceDetail/experienceDetail.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/js/personalPage/personalPage.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/js/experienceList/experienceList.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/js/experienceList/experienceList.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
