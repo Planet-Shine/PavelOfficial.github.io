@@ -2,31 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/js/avatarUploader/avatarUploader.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/js/avatarUploader/avatarUploader.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/js/avatarUploader/avatarUploader.template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/static/main-4a5cfa61b6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/static/main-5805f5e9f7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/static/main-6672758caa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/static/main-a4e1f0c1ad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/static/main-f21ee7156b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/static/maps/main-4a5cfa61b6.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/static/maps/main-5805f5e9f7.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/static/maps/main-6672758caa.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/static/maps/main-a4e1f0c1ad.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/static/maps/main-f21ee7156b.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/ptserif-bold-italic-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/ptserif-bold-italic-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/ptserif-bold-italic-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/ptserif-bold-italic-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/app/templates/index.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/bundle.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/searchinform-test-task/index.html" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/searchinform-test-task/js/app.module.js" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/js/app.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/searchinform-test-task/js/department/departmentList.component.js" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/js/department/departmentList.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/searchinform-test-task/js/department/departmentList.template.html" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/js/department/departmentList.template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/searchinform-test-task/js/employee/employee.component.js" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/js/employee/employee.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/searchinform-test-task/js/employee/employee.template.html" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/js/employee/employee.template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/searchinform-test-task/js/employee/employeeList.component.js" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/js/employee/employeeList.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/searchinform-test-task/js/employee/employeeList.template.html" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/js/employee/employeeList.template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/searchinform-test-task/js/services/employeeData.js" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/js/services/employeeData.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/searchinform-test-task/styl/styles.sass" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/styl/styles.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/searchinform-test-task/templates/employeeTemplates.js" afterPath="$PROJECT_DIR$/samples/searchinform-test-task/templates/employeeTemplates.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
     </list>
     <ignored path="PavelOfficial.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,7 +41,48 @@
     <favorites_list name="PavelOfficial.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bundle.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/bundle.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/app/templates/index.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,6 +91,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Decode-LLC-task/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -64,8 +101,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1311" />
-    <option name="width" value="1249" />
+    <option name="x" value="1251" />
+    <option name="width" value="1309" />
     <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -94,7 +131,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -113,8 +149,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PavelOfficial.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PavelOfficial.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,14 +175,18 @@
     <property name="js-jscs-nodeInterpreter" value="F:\Program Files\node.exe" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\projects\PavelOfficial.github.io\samples\searchinform-test-task" />
-      <recent name="F:\projects\PavelOfficial.github.io\samples\searchinform-test-task\static" />
-      <recent name="F:\projects\PavelOfficial.github.io\Decode-LLC-task" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\projects\PavelOfficial.github.io" />
+      <recent name="F:\projects\PavelOfficial.github.io\build" />
       <recent name="F:\projects\PavelOfficial.github.io\samples\searchinform-test-task" />
       <recent name="F:\projects\PavelOfficial.github.io\samples" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\PavelOfficial.github.io\build\app\templates" />
+      <recent name="F:\projects\PavelOfficial.github.io\build\app" />
+      <recent name="F:\projects\PavelOfficial.github.io" />
+      <recent name="F:\projects\PavelOfficial.github.io\samples\searchinform-test-task" />
+      <recent name="F:\projects\PavelOfficial.github.io\samples\searchinform-test-task\static" />
     </key>
   </component>
   <component name="RunManager">
@@ -209,7 +264,8 @@
       <workItem from="1479810156730" duration="2480000" />
       <workItem from="1480103982027" duration="2179000" />
       <workItem from="1480107535886" duration="15000" />
-      <workItem from="1480173698712" duration="39000" />
+      <workItem from="1480173698712" duration="366000" />
+      <workItem from="1480181157239" duration="460000" />
     </task>
     <task id="LOCAL-00001" summary="upload Decode LLC task">
       <created>1479810202387</created>
@@ -260,32 +316,39 @@
       <option name="project" value="LOCAL" />
       <updated>1480104839662</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="searchinform test task fix">
+      <created>1480173741686</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1480173741686</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6730000" />
+    <option name="totallyTimeSpent" value="7517000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1311" y="0" width="1249" height="1440" extended-state="0" />
+    <frame x="1251" y="0" width="1309" height="1440" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23864575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31235248" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36287242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -386,7 +449,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/build/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -404,6 +467,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/bundle.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/fonts/robotoregular-webfont.eot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/app/templates/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
