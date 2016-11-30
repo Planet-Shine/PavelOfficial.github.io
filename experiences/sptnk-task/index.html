@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Форма — основные данные</title>
+
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="./static/styles.css" type="text/css" />
+
+    <script type="text/javascript" src="./js/jquery-1.12.4.js"></script>
+    <script type="text/javascript" src="./static/jquery.pixlayout.0.9.7.js"></script>
+    <script type="text/javascript" src="./js/jquery-ui.js"></script>
+    <script type="text/javascript" src="./js/datepicker-ru.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $(".control__cntrl_calendar .control__input").datepicker({
+                dateFormat: "dd / mm / yy",
+                hideIfNoPrevNext: true,
+                changeMonth: true,
+                changeYear: true/*,
+                yearRange: "1940:1940"*/
+            });
+        });
+    </script>
+
+    <script type="text/javascript">
+        $(function(){
+            $.pixlayout({
+                clip : true,
+                // src : "./images/pp-bg-1.png",
+                // src : "./images/pp-bg2.png",
+                src : "./images/3.jpg",
+                opacity : 0.5,
+                show : false,
+                top : 0,
+                left : 0,
+                fixed : true,
+                right : 0,
+                pervious : false
+            });
+        });
+    </script>
+
+</head>
+<body>
+    <div class="content">
+        <form class="main-form" action="javascript:void(0);">
+
+            <h2 class="form-header">
+                Основные данные
+            </h2>
+
+            <div class="control control_required">
+                <div class="control__label">
+                    <label for="surname">Фамилия</label>
+                </div>
+                <div class="control__cntrl control__cntrl_valid">
+                    <input class="control__input"
+                           value="Иванов"
+                           id="surname"
+                           name="surname"
+                           type="text" />
+                </div>
+            </div>
+
+
+            <div class="control control_required">
+                <div>
+                    <div class="control__label">
+                        <label for="name">Имя</label>
+                    </div>
+                    <div class="control__cntrl control__cntrl_editing">
+                        <input class="control__input"
+                               id="name"
+                               name="name"
+                               type="text" />
+                    </div>
+                </div>
+                <div class="control__error control__error_hidden">
+                    Не допустимое имя
+                </div>
+            </div>
+
+            <div class="control control_required">
+                <div class="control__label">
+                    <label for="name">Отчество</label>
+                </div>
+                <div class="control__cntrl control__cntrl_not-valid">
+                    <input class="control__input"
+                           placeholder="Ваше отчество"
+                           id="patronymic"
+                           name="patronymic"
+                           type="text" />
+                </div>
+            </div>
+
+            <div class="control control_required">
+                <div class="control__label">
+                    <label for="birthday">Дата рождения</label>
+                </div>
+                <div class="control__cntrl control__cntrl_calendar">
+                    <input class="control__input"
+                           value="18 / 10 / 2016"
+                           readonly="readonly"
+                           id="birthday"
+                           name="birthday"
+                           type="text" />
+                </div>
+                <div class="control__error">
+                    Дата не должна быть больше текущей
+                </div>
+            </div>
+
+        </form>
+    </div>
+
+    <div class="footer">
+    </div>
+</body>
+</html>
