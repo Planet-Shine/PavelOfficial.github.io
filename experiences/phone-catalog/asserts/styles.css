@@ -263,8 +263,8 @@ th {
 @font-face {
   font-family: 'Glyphicons Halflings';
 
-  src: url(./experiences/phone-catalog/asserts/fonts/glyphicons-halflings-regular.eot);
-  src: url(./experiences/phone-catalog/asserts/fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'), url(./experiences/phone-catalog/asserts/fonts/glyphicons-halflings-regular.woff2) format('woff2'), url(./experiences/phone-catalog/asserts/fonts/glyphicons-halflings-regular.woff) format('woff'), url(./experiences/phone-catalog/asserts/fonts/glyphicons-halflings-regular.ttf) format('truetype'), url(./experiences/phone-catalog/asserts/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg');
+  src: url(/asserts/fonts/glyphicons-halflings-regular.eot);
+  src: url(/asserts/fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'), url(/asserts/fonts/glyphicons-halflings-regular.woff2) format('woff2'), url(/asserts/fonts/glyphicons-halflings-regular.woff) format('woff'), url(/asserts/fonts/glyphicons-halflings-regular.ttf) format('truetype'), url(/asserts/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg');
 }
 .glyphicon {
   position: relative;
@@ -7597,5 +7597,3 @@ li.active>a{
     background: #eeeeee;
 }
 /* End styles*/
-
-/*# sourceMappingURL=styles.css.map*/
