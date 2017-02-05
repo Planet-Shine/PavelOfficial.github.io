@@ -1,128 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/fonts/glyphicons-halflings-regular-448c34a56d699c29117adc64c43affeb.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/fonts/glyphicons-halflings-regular-e18bbf611f2a2e43afc071aa2f4e1512.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/fonts/glyphicons-halflings-regular-fa2772327f55d8198301fdb8bcfc8158.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/fonts/ptserif-bold-italic-webfont-101742edb3e45b9f18539cc46e9a9672.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/fonts/ptserif-bold-italic-webfont-7cfb1f1f3e281d645668cf5dd025acba.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/fonts/ptserif-bold-italic-webfont-a5bdb18d0af2316591f369d9e240ed8e.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/img/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/dell-streak-7.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/dell-streak-7.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/dell-streak-7.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/dell-streak-7.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/dell-streak-7.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/dell-venue.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/dell-venue.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/dell-venue.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/dell-venue.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/dell-venue.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/dell-venue.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/droid-2-global-by-motorola.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/droid-2-global-by-motorola.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/droid-2-global-by-motorola.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/droid-pro-by-motorola.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/droid-pro-by-motorola.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/lg-axis.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/lg-axis.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/lg-axis.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-atrix-4g.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-atrix-4g.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-atrix-4g.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-atrix-4g.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-bravo-with-motoblur.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-bravo-with-motoblur.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-bravo-with-motoblur.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-charm-with-motoblur.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-charm-with-motoblur.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-charm-with-motoblur.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-defy-with-motoblur.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-defy-with-motoblur.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-defy-with-motoblur.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-xoom-with-wi-fi.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-xoom-with-wi-fi.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-xoom-with-wi-fi.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-xoom-with-wi-fi.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-xoom-with-wi-fi.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-xoom-with-wi-fi.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-xoom.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-xoom.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/motorola-xoom.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/nexus-s.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/nexus-s.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/nexus-s.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/nexus-s.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-galaxy-tab.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-galaxy-tab.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-galaxy-tab.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-galaxy-tab.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-galaxy-tab.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-galaxy-tab.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-galaxy-tab.6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-gem.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-gem.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-gem.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-mesmerize-a-galaxy-s-phone.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-mesmerize-a-galaxy-s-phone.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-mesmerize-a-galaxy-s-phone.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-mesmerize-a-galaxy-s-phone.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-showcase-a-galaxy-s-phone.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-showcase-a-galaxy-s-phone.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-showcase-a-galaxy-s-phone.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-transform.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-transform.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-transform.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-transform.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/samsung-transform.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/sanyo-zio.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/sanyo-zio.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/sanyo-zio.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/t-mobile-g2.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/t-mobile-g2.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/t-mobile-g2.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/t-mobile-mytouch-4g.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/t-mobile-mytouch-4g.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/t-mobile-mytouch-4g.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/t-mobile-mytouch-4g.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/t-mobile-mytouch-4g.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/img/phones/t-mobile-mytouch-4g.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/fonts/glyphicons-halflings-regular-89889688147bd7575d6327160d64e760.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/fonts/glyphicons-halflings-regular-f4769f9bdb7466be65088239c12046d1.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/fonts/ptserif-bold-italic-webfont-c896ca0d44c2c9b182da43e9f4a898d6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/dev-index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/dell-streak-7.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/dell-venue.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/droid-2-global-by-motorola.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/droid-pro-by-motorola.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/lg-axis.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/motorola-atrix-4g.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/motorola-bravo-with-motoblur.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/motorola-charm-with-motoblur.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/motorola-defy-with-motoblur.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/motorola-xoom-with-wi-fi.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/motorola-xoom.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/nexus-s.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/phones.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/samsung-galaxy-tab.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/samsung-gem.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/samsung-mesmerize-a-galaxy-s-phone.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/samsung-showcase-a-galaxy-s-phone.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/samsung-transform.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/sanyo-zio.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/t-mobile-g2.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/phone-catalog/phones/t-mobile-mytouch-4g.json" />
+    <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="math-pads and phone-catalog">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/experiences/math-pads/build/bundle.js" afterPath="$PROJECT_DIR$/experiences/math-pads/build/bundle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/experiences/math-pads/build/style.css" afterPath="$PROJECT_DIR$/experiences/math-pads/build/style.css" />
     </list>
     <ignored path="PavelOfficial.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -142,28 +24,7 @@
     <favorites_list name="PavelOfficial.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/experiences/math-pads/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dev-index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/experiences/math-pads/dev-index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="16" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -194,10 +55,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1456" />
-    <option name="y" value="415" />
-    <option name="width" value="1012" />
-    <option name="height" value="825" />
+    <option name="x" value="1311" />
+    <option name="width" value="1249" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -257,20 +117,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PavelOfficial.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PavelOfficial.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -291,11 +137,11 @@
       <recent name="F:\projects\PavelOfficial.github.io\experiences" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads\build" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\phone-catalog" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\phone-app" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\sptnk-task" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\simple-slider" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences" />
     </key>
   </component>
   <component name="RunManager">
@@ -380,7 +226,7 @@
       <workItem from="1480246644870" duration="4720000" />
       <workItem from="1480328014054" duration="894000" />
       <workItem from="1480511519583" duration="1246000" />
-      <workItem from="1486292225657" duration="796000" />
+      <workItem from="1486292225657" duration="1932000" />
     </task>
     <task id="LOCAL-00001" summary="upload Decode LLC task">
       <created>1479810202387</created>
@@ -508,23 +354,30 @@
       <option name="project" value="LOCAL" />
       <updated>1480512150506</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="math-pads and phone-catalog">
+      <created>1486293095026</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1486293095026</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33246000" />
+    <option name="totallyTimeSpent" value="34382000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1456" y="415" width="1012" height="825" extended-state="0" />
+    <frame x="1311" y="0" width="1249" height="1440" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36755648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5004129" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21356422" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27599388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -557,7 +410,8 @@
     <MESSAGE value="funbox task" />
     <MESSAGE value="simple slider and others" />
     <MESSAGE value="sptnk-task upload&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="sptnk-task upload&#10;" />
+    <MESSAGE value="math-pads and phone-catalog" />
+    <option name="LAST_COMMIT_MESSAGE" value="math-pads and phone-catalog" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -566,20 +420,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/experiences/Decode-LLC-task/app/dev-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/experiences/Decode-LLC-task/app/todo/profileInfo.directive.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/experiences/Decode-LLC-task/app/todo/todo.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -809,8 +649,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/experiences/math-pads/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiences/math-pads/build/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiences/math-pads/build/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
