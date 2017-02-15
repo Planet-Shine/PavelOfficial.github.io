@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="domen google api verify html key">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/build/fonts/glyphicons-halflings-regular-448c34a56d699c29117adc64c43affeb.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/build/fonts/glyphicons-halflings-regular-e18bbf611f2a2e43afc071aa2f4e1512.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/build/fonts/glyphicons-halflings-regular-fa2772327f55d8198301fdb8bcfc8158.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/build/fonts/ptserif-bold-italic-webfont-101742edb3e45b9f18539cc46e9a9672.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/build/fonts/ptserif-bold-italic-webfont-7cfb1f1f3e281d645668cf5dd025acba.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/build/fonts/ptserif-bold-italic-webfont-a5bdb18d0af2316591f369d9e240ed8e.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/build/fonts/glyphicons-halflings-regular-89889688147bd7575d6327160d64e760.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/build/fonts/glyphicons-halflings-regular-f4769f9bdb7466be65088239c12046d1.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/math-pads/build/build/fonts/ptserif-bold-italic-webfont-c896ca0d44c2c9b182da43e9f4a898d6.svg" />
+    <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="div form math pads fix">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/experiences/math-pads/build/bundle.js" afterPath="$PROJECT_DIR$/experiences/math-pads/build/bundle.js" />
     </list>
     <ignored path="PavelOfficial.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,10 +22,34 @@
     <favorites_list name="PavelOfficial.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="build.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/experiences/financial-chart/build.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="22056" column="993621" selection-start-line="22056" selection-start-column="993621" selection-end-line="22056" selection-end-column="993621" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/experiences/financial-chart/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,6 +69,7 @@
         <option value="$PROJECT_DIR$/experiences/page-1.html" />
         <option value="$PROJECT_DIR$/experiences/math-pads/index.html" />
         <option value="$PROJECT_DIR$/experiences/phone-catalog/index.html" />
+        <option value="$PROJECT_DIR$/experiences/financial-chart/index.html" />
       </list>
     </option>
   </component>
@@ -64,9 +79,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="width" value="1035" />
-    <option name="height" value="1440" />
+    <option name="x" value="314" />
+    <option name="y" value="311" />
+    <option name="width" value="1249" />
+    <option name="height" value="1067" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -93,8 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -113,23 +127,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PavelOfficial.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PavelOfficial.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="experiences" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../inCodeSystemsTask 2/inCodeSystemsTask" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gulp-screencast" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="F:\Program Files\node.exe" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\financial-chart" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\phone-catalog" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads\build\fonts" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads\build" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\phone-app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\projects\PavelOfficial.github.io" />
@@ -222,7 +252,14 @@
       <workItem from="1480328014054" duration="894000" />
       <workItem from="1480511519583" duration="1246000" />
       <workItem from="1486292225657" duration="7567000" />
-      <workItem from="1486318643605" duration="1140000" />
+      <workItem from="1486318643605" duration="1742000" />
+      <workItem from="1486320614441" duration="9000" />
+      <workItem from="1486368570888" duration="1418000" />
+      <workItem from="1486455757286" duration="3581000" />
+      <workItem from="1486571420600" duration="860000" />
+      <workItem from="1486718813304" duration="1154000" />
+      <workItem from="1486888211305" duration="690000" />
+      <workItem from="1487159213468" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="upload Decode LLC task">
       <created>1479810202387</created>
@@ -420,11 +457,25 @@
       <option name="project" value="LOCAL" />
       <updated>1486318757159</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="div form math pads fix">
+      <created>1486320013938</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1486320013938</updated>
+    </task>
+    <task id="LOCAL-00030" summary="description math pads fix">
+      <created>1486368640654</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1486368640654</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41157000" />
+    <option name="totallyTimeSpent" value="49535000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -436,15 +487,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="0" width="1035" height="1440" extended-state="0" />
+    <frame x="314" y="311" width="1249" height="1067" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5677031" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32452518" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295107" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2178899" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.022171253" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23290598" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -483,7 +534,9 @@
     <MESSAGE value="phone catalog build fix" />
     <MESSAGE value="domen google api verify html key" />
     <MESSAGE value="math pads update" />
-    <option name="LAST_COMMIT_MESSAGE" value="math pads update" />
+    <MESSAGE value="div form math pads fix" />
+    <MESSAGE value="description math pads fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="description math pads fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -492,14 +545,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build/app/js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/app/js/app.module.js" />
     <entry file="file://$PROJECT_DIR$/build/app/js/app.config.js" />
     <entry file="file://$PROJECT_DIR$/build/app/js/contacts/contacts.module.js" />
     <entry file="file://$PROJECT_DIR$/build/app/js/contacts/contacts.component.js" />
@@ -685,13 +730,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/experiences/math-pads/build/bundle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/experiences/phone-catalog/build.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -732,6 +770,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="0" column="401" selection-start-line="0" selection-start-column="401" selection-end-line="0" selection-end-column="401" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiences/math-pads/build/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiences/financial-chart/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22056" column="993621" selection-start-line="22056" selection-start-column="993621" selection-end-line="22056" selection-end-column="993621" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiences/financial-chart/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding />
         </state>
       </provider>
