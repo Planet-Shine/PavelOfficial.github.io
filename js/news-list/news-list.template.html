@@ -1,5 +1,30 @@
-
 <div>
     <h4>News list</h4>
-    {{ $ctrl.list }}
+    <ul class="news-list" ng-if="$ctrl.data.news.length > 2">
+        <li class="news-item" ng-repeat="news in $ctrl.data.news" ng-if="news.from_id">
+            <span class="from-name">{{ news.from_name }}</span>
+            <span class="news-date">
+                <unix-date unixtime="{{ news.date }}"></unix-date>
+            </span><br />
+            <div class="news-text">
+                {{ news.text }}
+            </div>
+            <ul class="photos-list">
+                <li class="photo"
+                    ng-repeat="attachment in news.attachments"
+                    ng-if="attachment.type === 'photo'"
+                    ng-click="$ctrl.showSlide(attachment.photo.src_xxbig || attachment.photo.src_xbig || attachment.photo.src_big || attachment.photo.src)">
+                        <img ng-src="{{attachment.photo.src_small}}" />
+                </li>
+            </ul>
+            <div class="likes">
+                {{ news.likes.count || 0 }} <span class="glyphicon glyphicon-heart"></span>
+            </div>
+        </li>
+    </ul>
+    <div class="news-error" ng-if="$ctrl.data.news.length < 2">
+        Ничего не найдено
+    </div>
 </div>
+
+

@@ -1,305 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="Math pa">
+    <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="hight-smit-task">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/hismith-stat/hismith-stat.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/hismith-stat/hismith-stat.service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/slide-show-image/slide-show-image.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/slide-show-image/slide-show-image.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/slide-show/slide-show.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/slide-show/slide-show.service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/unix-date/unix-date.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/unix-date/unix-date.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/unix-date/unix-date.template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/slide-show/slide-show.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/slide-show/slide-show.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/slide-show/slide-show.template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ng-load/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ng-load/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ng-load/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ng-load/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ng-load/ng-load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ng-load/package.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/demo-index.html" afterPath="$PROJECT_DIR$/demo-index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/js/app.module.js" afterPath="$PROJECT_DIR$/js/app.module.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/js/appConstants.js" afterPath="$PROJECT_DIR$/js/appConstants.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/js/core/core.module.js" afterPath="$PROJECT_DIR$/js/core/core.module.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/js/core/vk/vk.module.js" afterPath="$PROJECT_DIR$/js/core/vk/vk.module.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/js/core/vk/vk.service.js" afterPath="$PROJECT_DIR$/js/core/vk/vk.service.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/js/news-list/news-list.component.js" afterPath="$PROJECT_DIR$/js/news-list/news-list.component.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/js/news-list/news-list.module.js" afterPath="$PROJECT_DIR$/js/news-list/news-list.module.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/js/news-list/news-list.template.html" afterPath="$PROJECT_DIR$/js/news-list/news-list.template.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/js/search-form/search-form.component.js" afterPath="$PROJECT_DIR$/js/search-form/search-form.component.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/js/search-form/search-form.module.js" afterPath="$PROJECT_DIR$/js/search-form/search-form.module.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/js/search-form/search-form.template.html" afterPath="$PROJECT_DIR$/js/search-form/search-form.template.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/js/vk-news-box/vk-news-box.component.js" afterPath="$PROJECT_DIR$/js/vk-news-box/vk-news-box.component.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/js/vk-news-box/vk-news-box.module.js" afterPath="$PROJECT_DIR$/js/vk-news-box/vk-news-box.module.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/js/vk-news-box/vk-news-box.template.html" afterPath="$PROJECT_DIR$/js/vk-news-box/vk-news-box.template.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular-bootstrap/.bower.json" afterPath="$PROJECT_DIR$/lib/angular-bootstrap/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular-bootstrap/.gitignore" afterPath="$PROJECT_DIR$/lib/angular-bootstrap/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular-bootstrap/.npmignore" afterPath="$PROJECT_DIR$/lib/angular-bootstrap/.npmignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular-bootstrap/README.md" afterPath="$PROJECT_DIR$/lib/angular-bootstrap/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular-bootstrap/bower.json" afterPath="$PROJECT_DIR$/lib/angular-bootstrap/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular-bootstrap/index.js" afterPath="$PROJECT_DIR$/lib/angular-bootstrap/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular-bootstrap/package.json" afterPath="$PROJECT_DIR$/lib/angular-bootstrap/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular-bootstrap/ui-bootstrap-csp.css" afterPath="$PROJECT_DIR$/lib/angular-bootstrap/ui-bootstrap-csp.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular-bootstrap/ui-bootstrap-tpls.js" afterPath="$PROJECT_DIR$/lib/angular-bootstrap/ui-bootstrap-tpls.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular-bootstrap/ui-bootstrap-tpls.min.js" afterPath="$PROJECT_DIR$/lib/angular-bootstrap/ui-bootstrap-tpls.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular-bootstrap/ui-bootstrap.js" afterPath="$PROJECT_DIR$/lib/angular-bootstrap/ui-bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular-bootstrap/ui-bootstrap.min.js" afterPath="$PROJECT_DIR$/lib/angular-bootstrap/ui-bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular/.bower.json" afterPath="$PROJECT_DIR$/lib/angular/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular/LICENSE.md" afterPath="$PROJECT_DIR$/lib/angular/LICENSE.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular/README.md" afterPath="$PROJECT_DIR$/lib/angular/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular/angular-csp.css" afterPath="$PROJECT_DIR$/lib/angular/angular-csp.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular/angular.js" afterPath="$PROJECT_DIR$/lib/angular/angular.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular/angular.min.js" afterPath="$PROJECT_DIR$/lib/angular/angular.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular/angular.min.js.gzip" afterPath="$PROJECT_DIR$/lib/angular/angular.min.js.gzip" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular/angular.min.js.map" afterPath="$PROJECT_DIR$/lib/angular/angular.min.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular/bower.json" afterPath="$PROJECT_DIR$/lib/angular/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular/index.js" afterPath="$PROJECT_DIR$/lib/angular/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/angular/package.json" afterPath="$PROJECT_DIR$/lib/angular/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/.bower.json" afterPath="$PROJECT_DIR$/lib/bootstrap/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/CHANGELOG.md" afterPath="$PROJECT_DIR$/lib/bootstrap/CHANGELOG.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/Gemfile" afterPath="$PROJECT_DIR$/lib/bootstrap/Gemfile" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/Gemfile.lock" afterPath="$PROJECT_DIR$/lib/bootstrap/Gemfile.lock" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/Gruntfile.js" afterPath="$PROJECT_DIR$/lib/bootstrap/Gruntfile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/ISSUE_TEMPLATE.md" afterPath="$PROJECT_DIR$/lib/bootstrap/ISSUE_TEMPLATE.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/LICENSE" afterPath="$PROJECT_DIR$/lib/bootstrap/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/README.md" afterPath="$PROJECT_DIR$/lib/bootstrap/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/bower.json" afterPath="$PROJECT_DIR$/lib/bootstrap/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap-theme.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/dist/js/npm.js" afterPath="$PROJECT_DIR$/lib/bootstrap/dist/js/npm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/grunt/.jshintrc" afterPath="$PROJECT_DIR$/lib/bootstrap/grunt/.jshintrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/grunt/bs-commonjs-generator.js" afterPath="$PROJECT_DIR$/lib/bootstrap/grunt/bs-commonjs-generator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/grunt/bs-glyphicons-data-generator.js" afterPath="$PROJECT_DIR$/lib/bootstrap/grunt/bs-glyphicons-data-generator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/grunt/bs-lessdoc-parser.js" afterPath="$PROJECT_DIR$/lib/bootstrap/grunt/bs-lessdoc-parser.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/grunt/bs-raw-files-generator.js" afterPath="$PROJECT_DIR$/lib/bootstrap/grunt/bs-raw-files-generator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/grunt/change-version.js" afterPath="$PROJECT_DIR$/lib/bootstrap/grunt/change-version.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/grunt/configBridge.json" afterPath="$PROJECT_DIR$/lib/bootstrap/grunt/configBridge.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/grunt/npm-shrinkwrap.json" afterPath="$PROJECT_DIR$/lib/bootstrap/grunt/npm-shrinkwrap.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/grunt/sauce_browsers.yml" afterPath="$PROJECT_DIR$/lib/bootstrap/grunt/sauce_browsers.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/js/.jscsrc" afterPath="$PROJECT_DIR$/lib/bootstrap/js/.jscsrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/js/.jshintrc" afterPath="$PROJECT_DIR$/lib/bootstrap/js/.jshintrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/js/affix.js" afterPath="$PROJECT_DIR$/lib/bootstrap/js/affix.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/js/alert.js" afterPath="$PROJECT_DIR$/lib/bootstrap/js/alert.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/js/button.js" afterPath="$PROJECT_DIR$/lib/bootstrap/js/button.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/js/carousel.js" afterPath="$PROJECT_DIR$/lib/bootstrap/js/carousel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/js/collapse.js" afterPath="$PROJECT_DIR$/lib/bootstrap/js/collapse.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/js/dropdown.js" afterPath="$PROJECT_DIR$/lib/bootstrap/js/dropdown.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/js/modal.js" afterPath="$PROJECT_DIR$/lib/bootstrap/js/modal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/js/popover.js" afterPath="$PROJECT_DIR$/lib/bootstrap/js/popover.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/js/scrollspy.js" afterPath="$PROJECT_DIR$/lib/bootstrap/js/scrollspy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/js/tab.js" afterPath="$PROJECT_DIR$/lib/bootstrap/js/tab.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/js/tooltip.js" afterPath="$PROJECT_DIR$/lib/bootstrap/js/tooltip.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/js/transition.js" afterPath="$PROJECT_DIR$/lib/bootstrap/js/transition.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/.csscomb.json" afterPath="$PROJECT_DIR$/lib/bootstrap/less/.csscomb.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/.csslintrc" afterPath="$PROJECT_DIR$/lib/bootstrap/less/.csslintrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/alerts.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/alerts.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/badges.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/badges.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/bootstrap.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/bootstrap.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/breadcrumbs.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/breadcrumbs.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/button-groups.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/button-groups.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/buttons.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/buttons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/carousel.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/carousel.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/close.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/close.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/code.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/code.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/component-animations.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/component-animations.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/dropdowns.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/dropdowns.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/forms.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/forms.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/glyphicons.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/glyphicons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/grid.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/grid.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/input-groups.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/input-groups.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/jumbotron.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/jumbotron.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/labels.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/labels.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/list-group.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/list-group.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/media.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/media.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/alerts.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/alerts.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/background-variant.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/background-variant.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/border-radius.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/border-radius.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/buttons.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/buttons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/center-block.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/center-block.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/clearfix.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/clearfix.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/forms.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/forms.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/gradients.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/gradients.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/grid-framework.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/grid-framework.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/grid.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/grid.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/hide-text.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/hide-text.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/image.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/image.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/labels.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/labels.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/list-group.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/list-group.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/nav-divider.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/nav-divider.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/nav-vertical-align.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/nav-vertical-align.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/opacity.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/opacity.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/pagination.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/pagination.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/panels.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/panels.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/progress-bar.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/progress-bar.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/reset-filter.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/reset-filter.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/reset-text.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/reset-text.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/resize.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/resize.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/responsive-visibility.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/responsive-visibility.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/size.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/size.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/tab-focus.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/tab-focus.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/table-row.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/table-row.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/text-emphasis.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/text-emphasis.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/text-overflow.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/text-overflow.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/mixins/vendor-prefixes.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/mixins/vendor-prefixes.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/modals.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/modals.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/navbar.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/navbar.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/navs.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/navs.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/normalize.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/normalize.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/pager.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/pager.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/pagination.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/pagination.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/panels.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/panels.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/popovers.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/popovers.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/print.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/print.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/progress-bars.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/progress-bars.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/responsive-embed.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/responsive-embed.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/responsive-utilities.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/responsive-utilities.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/scaffolding.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/scaffolding.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/tables.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/tables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/theme.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/theme.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/thumbnails.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/thumbnails.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/tooltip.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/tooltip.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/type.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/type.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/utilities.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/utilities.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/variables.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/less/wells.less" afterPath="$PROJECT_DIR$/lib/bootstrap/less/wells.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/nuget/MyGet.ps1" afterPath="$PROJECT_DIR$/lib/bootstrap/nuget/MyGet.ps1" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/nuget/bootstrap.less.nuspec" afterPath="$PROJECT_DIR$/lib/bootstrap/nuget/bootstrap.less.nuspec" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/nuget/bootstrap.nuspec" afterPath="$PROJECT_DIR$/lib/bootstrap/nuget/bootstrap.nuspec" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/package.js" afterPath="$PROJECT_DIR$/lib/bootstrap/package.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/bootstrap/package.json" afterPath="$PROJECT_DIR$/lib/bootstrap/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/.bower.json" afterPath="$PROJECT_DIR$/lib/jquery/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/AUTHORS.txt" afterPath="$PROJECT_DIR$/lib/jquery/AUTHORS.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/LICENSE.txt" afterPath="$PROJECT_DIR$/lib/jquery/LICENSE.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/README.md" afterPath="$PROJECT_DIR$/lib/jquery/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/bower.json" afterPath="$PROJECT_DIR$/lib/jquery/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/dist/core.js" afterPath="$PROJECT_DIR$/lib/jquery/dist/core.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/dist/jquery.js" afterPath="$PROJECT_DIR$/lib/jquery/dist/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/dist/jquery.min.js" afterPath="$PROJECT_DIR$/lib/jquery/dist/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/dist/jquery.min.map" afterPath="$PROJECT_DIR$/lib/jquery/dist/jquery.min.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/dist/jquery.slim.js" afterPath="$PROJECT_DIR$/lib/jquery/dist/jquery.slim.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/dist/jquery.slim.min.js" afterPath="$PROJECT_DIR$/lib/jquery/dist/jquery.slim.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/dist/jquery.slim.min.map" afterPath="$PROJECT_DIR$/lib/jquery/dist/jquery.slim.min.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/external/sizzle/LICENSE.txt" afterPath="$PROJECT_DIR$/lib/jquery/external/sizzle/LICENSE.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/external/sizzle/dist/sizzle.js" afterPath="$PROJECT_DIR$/lib/jquery/external/sizzle/dist/sizzle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/external/sizzle/dist/sizzle.min.js" afterPath="$PROJECT_DIR$/lib/jquery/external/sizzle/dist/sizzle.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/external/sizzle/dist/sizzle.min.map" afterPath="$PROJECT_DIR$/lib/jquery/external/sizzle/dist/sizzle.min.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/.eslintrc.json" afterPath="$PROJECT_DIR$/lib/jquery/src/.eslintrc.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/ajax.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/ajax/jsonp.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/jsonp.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/ajax/load.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/load.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/ajax/parseXML.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/parseXML.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/ajax/script.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/script.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/ajax/var/location.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/var/location.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/ajax/var/nonce.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/var/nonce.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/ajax/var/rquery.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/var/rquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/ajax/xhr.js" afterPath="$PROJECT_DIR$/lib/jquery/src/ajax/xhr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/attributes.js" afterPath="$PROJECT_DIR$/lib/jquery/src/attributes.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/attributes/attr.js" afterPath="$PROJECT_DIR$/lib/jquery/src/attributes/attr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/attributes/classes.js" afterPath="$PROJECT_DIR$/lib/jquery/src/attributes/classes.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/attributes/prop.js" afterPath="$PROJECT_DIR$/lib/jquery/src/attributes/prop.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/attributes/support.js" afterPath="$PROJECT_DIR$/lib/jquery/src/attributes/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/attributes/val.js" afterPath="$PROJECT_DIR$/lib/jquery/src/attributes/val.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/callbacks.js" afterPath="$PROJECT_DIR$/lib/jquery/src/callbacks.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/core.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/core/DOMEval.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/DOMEval.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/core/access.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/access.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/core/init.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/init.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/core/parseHTML.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/parseHTML.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/core/ready-no-deferred.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/ready-no-deferred.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/core/ready.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/ready.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/core/readyException.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/readyException.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/core/stripAndCollapse.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/stripAndCollapse.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/core/support.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/core/var/rsingleTag.js" afterPath="$PROJECT_DIR$/lib/jquery/src/core/var/rsingleTag.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/css.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/css/addGetHookIf.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/addGetHookIf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/css/adjustCSS.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/adjustCSS.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/css/curCSS.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/curCSS.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/css/hiddenVisibleSelectors.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/css/showHide.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/showHide.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/css/support.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/css/var/cssExpand.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/var/cssExpand.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/css/var/getStyles.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/var/getStyles.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/css/var/isHiddenWithinTree.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/var/isHiddenWithinTree.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/css/var/rmargin.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/var/rmargin.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/css/var/rnumnonpx.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/var/rnumnonpx.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/css/var/swap.js" afterPath="$PROJECT_DIR$/lib/jquery/src/css/var/swap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/data.js" afterPath="$PROJECT_DIR$/lib/jquery/src/data.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/data/Data.js" afterPath="$PROJECT_DIR$/lib/jquery/src/data/Data.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/data/var/acceptData.js" afterPath="$PROJECT_DIR$/lib/jquery/src/data/var/acceptData.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/data/var/dataPriv.js" afterPath="$PROJECT_DIR$/lib/jquery/src/data/var/dataPriv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/data/var/dataUser.js" afterPath="$PROJECT_DIR$/lib/jquery/src/data/var/dataUser.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/deferred.js" afterPath="$PROJECT_DIR$/lib/jquery/src/deferred.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/deferred/exceptionHook.js" afterPath="$PROJECT_DIR$/lib/jquery/src/deferred/exceptionHook.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/deprecated.js" afterPath="$PROJECT_DIR$/lib/jquery/src/deprecated.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/dimensions.js" afterPath="$PROJECT_DIR$/lib/jquery/src/dimensions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/effects.js" afterPath="$PROJECT_DIR$/lib/jquery/src/effects.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/effects/Tween.js" afterPath="$PROJECT_DIR$/lib/jquery/src/effects/Tween.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/effects/animatedSelector.js" afterPath="$PROJECT_DIR$/lib/jquery/src/effects/animatedSelector.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/event.js" afterPath="$PROJECT_DIR$/lib/jquery/src/event.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/event/ajax.js" afterPath="$PROJECT_DIR$/lib/jquery/src/event/ajax.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/event/alias.js" afterPath="$PROJECT_DIR$/lib/jquery/src/event/alias.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/event/focusin.js" afterPath="$PROJECT_DIR$/lib/jquery/src/event/focusin.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/event/support.js" afterPath="$PROJECT_DIR$/lib/jquery/src/event/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/event/trigger.js" afterPath="$PROJECT_DIR$/lib/jquery/src/event/trigger.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/exports/amd.js" afterPath="$PROJECT_DIR$/lib/jquery/src/exports/amd.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/exports/global.js" afterPath="$PROJECT_DIR$/lib/jquery/src/exports/global.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/jquery.js" afterPath="$PROJECT_DIR$/lib/jquery/src/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/manipulation.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/manipulation/_evalUrl.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/_evalUrl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/manipulation/buildFragment.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/buildFragment.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/manipulation/getAll.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/getAll.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/manipulation/setGlobalEval.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/setGlobalEval.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/manipulation/support.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/manipulation/var/rcheckableType.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/manipulation/var/rscriptType.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/var/rscriptType.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/manipulation/var/rtagName.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/var/rtagName.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/manipulation/wrapMap.js" afterPath="$PROJECT_DIR$/lib/jquery/src/manipulation/wrapMap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/offset.js" afterPath="$PROJECT_DIR$/lib/jquery/src/offset.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/queue.js" afterPath="$PROJECT_DIR$/lib/jquery/src/queue.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/queue/delay.js" afterPath="$PROJECT_DIR$/lib/jquery/src/queue/delay.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/selector-native.js" afterPath="$PROJECT_DIR$/lib/jquery/src/selector-native.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/selector-sizzle.js" afterPath="$PROJECT_DIR$/lib/jquery/src/selector-sizzle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/selector.js" afterPath="$PROJECT_DIR$/lib/jquery/src/selector.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/serialize.js" afterPath="$PROJECT_DIR$/lib/jquery/src/serialize.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/traversing.js" afterPath="$PROJECT_DIR$/lib/jquery/src/traversing.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/traversing/findFilter.js" afterPath="$PROJECT_DIR$/lib/jquery/src/traversing/findFilter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/traversing/var/dir.js" afterPath="$PROJECT_DIR$/lib/jquery/src/traversing/var/dir.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/traversing/var/rneedsContext.js" afterPath="$PROJECT_DIR$/lib/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/traversing/var/siblings.js" afterPath="$PROJECT_DIR$/lib/jquery/src/traversing/var/siblings.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/ObjectFunctionString.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/ObjectFunctionString.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/arr.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/arr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/class2type.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/class2type.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/concat.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/concat.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/document.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/document.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/documentElement.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/documentElement.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/fnToString.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/fnToString.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/getProto.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/getProto.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/hasOwn.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/hasOwn.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/indexOf.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/indexOf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/pnum.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/pnum.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/push.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/push.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/rcssNum.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/rcssNum.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/rnothtmlwhite.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/rnothtmlwhite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/slice.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/slice.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/support.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/var/toString.js" afterPath="$PROJECT_DIR$/lib/jquery/src/var/toString.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/jquery/src/wrap.js" afterPath="$PROJECT_DIR$/lib/jquery/src/wrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/vk-api/.bower.json" afterPath="$PROJECT_DIR$/lib/vk-api/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/vk-api/LICENSE.md" afterPath="$PROJECT_DIR$/lib/vk-api/LICENSE.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/vk-api/README.md" afterPath="$PROJECT_DIR$/lib/vk-api/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/vk-api/bower.json" afterPath="$PROJECT_DIR$/lib/vk-api/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/vk-api/dist/vk-api-no-shortcuts.js" afterPath="$PROJECT_DIR$/lib/vk-api/dist/vk-api-no-shortcuts.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/vk-api/dist/vk-api-no-shortcuts.min.js" afterPath="$PROJECT_DIR$/lib/vk-api/dist/vk-api-no-shortcuts.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/vk-api/dist/vk-api.js" afterPath="$PROJECT_DIR$/lib/vk-api/dist/vk-api.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/experiences/hight-smit-task/lib/vk-api/dist/vk-api.min.js" afterPath="$PROJECT_DIR$/lib/vk-api/dist/vk-api.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.module.js" afterPath="$PROJECT_DIR$/js/app.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/appConstants.js" afterPath="$PROJECT_DIR$/js/appConstants.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/core.module.js" afterPath="$PROJECT_DIR$/js/core/core.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/vk/vk.service.js" afterPath="$PROJECT_DIR$/js/core/vk/vk.service.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/news-list/news-list.component.js" afterPath="$PROJECT_DIR$/js/news-list/news-list.component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/news-list/news-list.module.js" afterPath="$PROJECT_DIR$/js/news-list/news-list.module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/news-list/news-list.template.html" afterPath="$PROJECT_DIR$/js/news-list/news-list.template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/search-form/search-form.component.js" afterPath="$PROJECT_DIR$/js/search-form/search-form.component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/search-form/search-form.template.html" afterPath="$PROJECT_DIR$/js/search-form/search-form.template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vk-news-box/vk-news-box.component.js" afterPath="$PROJECT_DIR$/js/vk-news-box/vk-news-box.component.js" />
     </list>
     <ignored path="PavelOfficial.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -319,22 +53,12 @@
     <favorites_list name="PavelOfficial.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo-index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo-index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -368,6 +92,7 @@
         <option value="$PROJECT_DIR$/experiences/financial-chart/index.html" />
         <option value="$PROJECT_DIR$/experiences/math-pads/index.html" />
         <option value="$PROJECT_DIR$/experiences/hight-smit-task/demo-index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -377,8 +102,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="902" />
-    <option name="width" value="1658" />
+    <option name="x" value="62" />
+    <option name="width" value="1249" />
     <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -406,6 +131,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -426,8 +153,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -437,19 +162,19 @@
     <property name="js-jscs-nodeInterpreter" value="F:\Program Files\node.exe" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\hight-smit-task" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\financial-chart" />
-      <recent name="F:\projects\PavelOfficial.github.io" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads\build" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\projects\PavelOfficial.github.io" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\financial-chart" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\phone-catalog" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\sptnk-task\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\PavelOfficial.github.io" />
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\hight-smit-task" />
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\financial-chart" />
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads\build" />
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads" />
     </key>
   </component>
   <component name="RunManager">
@@ -551,7 +276,10 @@
       <workItem from="1487623399078" duration="11000" />
       <workItem from="1487628752487" duration="762000" />
       <workItem from="1487658475325" duration="5152000" />
-      <workItem from="1488900478271" duration="391000" />
+      <workItem from="1488900478271" duration="1155000" />
+      <workItem from="1488906248162" duration="2233000" />
+      <workItem from="1488956613853" duration="38000" />
+      <workItem from="1488969437462" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="upload Decode LLC task">
       <created>1479810202387</created>
@@ -882,11 +610,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488900763085</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="hight-smit-task">
+      <created>1488900879860</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1488900879860</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60721000" />
+    <option name="totallyTimeSpent" value="63783000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -898,15 +633,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="902" y="0" width="1658" height="1440" extended-state="0" />
+    <frame x="62" y="0" width="1249" height="1440" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2037037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29810074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295107" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2178899" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15978593" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20855615" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -956,9 +691,9 @@
     <MESSAGE value="Financial chart fix. Layout and favicon." />
     <MESSAGE value="Financial chart fix." />
     <MESSAGE value="Financial chart fix. Touch fix." />
-    <MESSAGE value="hight-smit-task" />
     <MESSAGE value="Math pa" />
-    <option name="LAST_COMMIT_MESSAGE" value="Math pa" />
+    <MESSAGE value="hight-smit-task" />
+    <option name="LAST_COMMIT_MESSAGE" value="hight-smit-task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -967,7 +702,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build/app/js/experienceDetail/experienceDetail.module.js" />
     <entry file="file://$PROJECT_DIR$/build/app/js/experienceDetail/experienceDetail.component.js" />
     <entry file="file://$PROJECT_DIR$/build/app/js/personalPage/personalPage.module.js" />
     <entry file="file://$PROJECT_DIR$/build/app/js/contacts/contacts.template.html" />
@@ -1228,8 +962,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="544">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
           <folding />
         </state>
       </provider>

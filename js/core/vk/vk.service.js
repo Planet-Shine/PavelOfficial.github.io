@@ -3,50 +3,90 @@
 
 angular
     .module('core.vk')
-    .factory('$vk', function ($http, $location) {
-        var $vk = {
+    .factory('$vk', function ($http, $location, $rootScope) {
+        var data = {
+            error: null,
             searchQuery: '',
-            news: [],
+            news: []
+        };
+        var $vk = {
+            data: data,
             authUser: authUser,
-            loadNews: loadNews
+            loadNews: loadNews,
+            setSearchQuery: setSearchQuery
         };
         return $vk;
-        function authUser() {
-            var hash = $location.hash(),
-                accessTokenMatch = hash.match(/access_token=([^&]*)&?/),
-                authWebsitePromise;
-            if (accessTokenMatch && accessTokenMatch[1]) {
-                vk.accessToken = accessTokenMatch[1];
-                $location.hash('');
-                authWebsitePromise = vk.authWebsite(consts.APP_ID, []);
-                return authWebsitePromise;
-                // console.log(accessTokenMatch[1]);
-            } else {
-                location.href = consts.AUTH_URL
-                    .replace('{client_id}', consts.APP_ID)
-                    .replace('{redirect_uri}', encodeURIComponent(location.href));
-            }
+        function authUser(callback) {
+            VK.Auth.login(callback);
         }
-        function loadNews(searchQuery) {
-            if (searchQuery) {
-                vk.newsfeed.get({
-                    q: searchQuery,
-                    count: 10,
-                    version: 5.62
-                }).then(function (result) {
-                    console.log(result);
-                }, function (error) {
-                    console.log('error : ' + error);
-                });
-            } else {
-                vk.newsfeed.get({
-                    count: 10,
-                    version: 5.62
-                }).then(function (result) {
-                    console.log(result);
-                }, function (error) {
-                    console.log('error : ' + error);
-                });
+        function mergeFromName(response) {
+            var items = response.wall,
+                profiles = response.profiles,
+                groups = response.groups;
+            function getName(id) {
+                var item;
+                if (id > 0) {
+                    item = (profiles.filter(function (profile) {
+                        return profile.uid === id;
+                    })[0] || {});
+                    return (item.first_name || '') + ' ' + (item.last_name || '');
+                }
+                item = (groups.filter(function (group) {
+                    return group.gid === -id;
+                })[0] || {});
+                return (item.name || '');
             }
+            items.forEach(function (item) {
+                item.from_name = getName(item.from_id) || '';
+            });
+            return items;
+        }
+        function setSearchQuery() {
+            if (!data.searchQuery) {
+                return loadNews();
+            }
+            VK.Api.call(
+                'wall.search',
+                {
+                    query: data.searchQuery, // todo: Вынести в константы.
+                    owner_id: -62661355,
+                    count: 10,
+                    offset: 100,
+                    extended: 1,
+                    fields: 'name,first_name,last_name'
+                },
+                function (r) {
+                    $rootScope.$apply(function () {
+                        if (r.response) {
+                            data.news = mergeFromName(r.response);
+                        }
+                        if (r.error) {
+                            data.error = r.error;
+                        }
+                    });
+                }
+            );
+        }
+        function loadNews() {
+            VK.Api.call(
+                'wall.get',
+                {
+                    owner_id: -62661355, // todo: Вынести в константы.
+                    count: 10,
+                    offset: 100,
+                    extended: 1,
+                    fields: 'name,first_name,last_name'
+                },
+                function (r) {
+                    $rootScope.$apply(function () {
+                        if (r.response) {
+                            data.news = mergeFromName(r.response);
+                        }
+                        if (r.error) {
+                            data.error = r.error;
+                        }
+                    });
+                }
+            );
         }
     });

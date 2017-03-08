@@ -1,0 +1,10 @@
+<div class="slide-show" ng-show="$ctrl.data.src">
+    <div class="popup">
+        <div class="inner">
+            <span class="close-button glyphicon glyphicon-remove"
+                  ng-click="$ctrl.close()"></span>
+            <img class="slide-show-image"
+                 ng-src="{{ $ctrl.data.src }}" slide-show-image />
+        </div>
+    </div>
+</div>

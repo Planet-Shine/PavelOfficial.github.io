@@ -1,7 +1,3 @@
-
-
-
-
 angular
     .module('vkNewsBox')
     .component('vkNewsBox', {
@@ -9,8 +5,8 @@ angular
         'controller': vkNewsBoxController
     });
 
-function vkNewsBoxController ($vk) {
-    $vk.authUser().then(function () {
+function vkNewsBoxController($vk) {
+    $vk.authUser(function () {
         $vk.loadNews();
     });
 }
