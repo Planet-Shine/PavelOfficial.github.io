@@ -48,10 +48,9 @@ angular
             VK.Api.call(
                 'wall.search',
                 {
-                    query: data.searchQuery, // todo: Вынести в константы.
-                    owner_id: -62661355,
-                    count: 10,
-                    offset: 100,
+                    query: data.searchQuery,
+                    owner_id: consts.TARGET_ID,
+                    count: consts.NEWS_COUNT,
                     extended: 1,
                     fields: 'name,first_name,last_name'
                 },
@@ -71,9 +70,9 @@ angular
             VK.Api.call(
                 'wall.get',
                 {
-                    owner_id: -62661355, // todo: Вынести в константы.
-                    count: 10,
-                    offset: 100,
+                    owner_id: consts.TARGET_ID,
+                    count: consts.NEWS_COUNT,
+                    offset: consts.NEWS_OFFSET,
                     extended: 1,
                     fields: 'name,first_name,last_name'
                 },

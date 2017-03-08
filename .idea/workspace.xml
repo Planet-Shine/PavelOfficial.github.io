@@ -1,39 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="hight-smit-task">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/hismith-stat/hismith-stat.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/hismith-stat/hismith-stat.service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/slide-show-image/slide-show-image.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/slide-show-image/slide-show-image.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/slide-show/slide-show.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/slide-show/slide-show.service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/unix-date/unix-date.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/unix-date/unix-date.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/core/unix-date/unix-date.template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/slide-show/slide-show.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/slide-show/slide-show.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/slide-show/slide-show.template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ng-load/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ng-load/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ng-load/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ng-load/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ng-load/ng-load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ng-load/package.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-index.html" afterPath="" />
+    <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.module.js" afterPath="$PROJECT_DIR$/js/app.module.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/appConstants.js" afterPath="$PROJECT_DIR$/js/appConstants.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/core.module.js" afterPath="$PROJECT_DIR$/js/core/core.module.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/vk/vk.service.js" afterPath="$PROJECT_DIR$/js/core/vk/vk.service.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/news-list/news-list.component.js" afterPath="$PROJECT_DIR$/js/news-list/news-list.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/news-list/news-list.module.js" afterPath="$PROJECT_DIR$/js/news-list/news-list.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/news-list/news-list.template.html" afterPath="$PROJECT_DIR$/js/news-list/news-list.template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/search-form/search-form.component.js" afterPath="$PROJECT_DIR$/js/search-form/search-form.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/search-form/search-form.template.html" afterPath="$PROJECT_DIR$/js/search-form/search-form.template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/vk-news-box/vk-news-box.component.js" afterPath="$PROJECT_DIR$/js/vk-news-box/vk-news-box.component.js" />
     </list>
     <ignored path="PavelOfficial.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -148,6 +119,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PavelOfficial.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PavelOfficial.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PavelOfficial.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -279,7 +264,7 @@
       <workItem from="1488900478271" duration="1155000" />
       <workItem from="1488906248162" duration="2233000" />
       <workItem from="1488956613853" duration="38000" />
-      <workItem from="1488969437462" duration="27000" />
+      <workItem from="1488969437462" duration="478000" />
     </task>
     <task id="LOCAL-00001" summary="upload Decode LLC task">
       <created>1479810202387</created>
@@ -617,11 +602,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488900879860</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="hi-smit-task">
+      <created>1488969475882</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1488969475882</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63783000" />
+    <option name="totallyTimeSpent" value="64234000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -641,7 +633,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2178899" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20855615" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2087156" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -668,7 +660,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="search inform test task" />
     <MESSAGE value="searchinform test task fix" />
     <MESSAGE value="portfolio workpiece" />
     <MESSAGE value="funbox task" />
@@ -693,7 +684,8 @@
     <MESSAGE value="Financial chart fix. Touch fix." />
     <MESSAGE value="Math pa" />
     <MESSAGE value="hight-smit-task" />
-    <option name="LAST_COMMIT_MESSAGE" value="hight-smit-task" />
+    <MESSAGE value="hi-smit-task" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi-smit-task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -952,14 +944,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -970,8 +954,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state relative-caret-position="646">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

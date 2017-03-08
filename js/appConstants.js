@@ -15,5 +15,8 @@ var consts = {
         'декабря'
     ],
     AUTH_URL: 'https://oauth.vk.com/authorize?client_id={client_id}&display=page&redirect_uri={redirect_uri}&scope=friends&response_type=token&v=5.52',
-    APP_ID: 5912019
+    APP_ID: 5912019,
+    TARGET_ID: -62661355,
+    NEWS_COUNT: 10,
+    NEWS_OFFSET: 100
 };
