@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/technology-of-solutions-task/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/technology-of-solutions-task/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/technology-of-solutions-task/purchase-list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/technology-of-solutions-task/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/experiences/technology-of-solutions-task/purchase-list.js" afterPath="$PROJECT_DIR$/experiences/technology-of-solutions-task/purchase-list.js" />
     </list>
     <ignored path="PavelOfficial.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/experiences/technology-of-solutions-task/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="646">
+              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -75,7 +72,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1311" />
+    <option name="x" value="62" />
     <option name="width" value="1249" />
     <option name="height" value="1440" />
   </component>
@@ -104,7 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -120,20 +117,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PavelOfficial.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PavelOfficial.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PavelOfficial.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -171,7 +154,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,19 +164,19 @@
     <property name="js-jscs-nodeInterpreter" value="F:\Program Files\node.exe" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\technology-of-solutions-task" />
-      <recent name="F:\projects\PavelOfficial.github.io" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\hight-smit-task" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\financial-chart" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads\build" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\projects\PavelOfficial.github.io" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\financial-chart" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\phone-catalog" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\sptnk-task\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\technology-of-solutions-task" />
+      <recent name="F:\projects\PavelOfficial.github.io" />
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\hight-smit-task" />
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\financial-chart" />
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads\build" />
     </key>
   </component>
   <component name="RunManager">
@@ -300,14 +283,8 @@
       <workItem from="1488956613853" duration="38000" />
       <workItem from="1488969437462" duration="1356000" />
       <workItem from="1488996454850" duration="23000" />
-      <workItem from="1489142641657" duration="53000" />
-    </task>
-    <task id="LOCAL-00003" summary="upload Decode LLC task">
-      <created>1479813845200</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1479813845200</updated>
+      <workItem from="1489142641657" duration="425000" />
+      <workItem from="1489145993417" duration="23000" />
     </task>
     <task id="LOCAL-00004" summary="search inform test task">
       <created>1480104143648</created>
@@ -645,11 +622,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488970278711</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="technology-of-solutions-task">
+      <created>1489142700850</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1489142700850</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65188000" />
+    <option name="totallyTimeSpent" value="65583000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -661,7 +645,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1311" y="0" width="1249" height="1440" extended-state="0" />
+    <frame x="62" y="0" width="1249" height="1440" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29810074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -696,7 +680,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="portfolio workpiece" />
     <MESSAGE value="funbox task" />
     <MESSAGE value="simple slider and others" />
     <MESSAGE value="sptnk-task upload&#10;" />
@@ -721,7 +704,8 @@
     <MESSAGE value="hight-smit-task" />
     <MESSAGE value="hi-smit-task" />
     <MESSAGE value="fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixes" />
+    <MESSAGE value="technology-of-solutions-task" />
+    <option name="LAST_COMMIT_MESSAGE" value="technology-of-solutions-task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -996,8 +980,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/experiences/technology-of-solutions-task/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="646">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
           <folding />
         </state>
       </provider>
