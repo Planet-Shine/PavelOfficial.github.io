@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/technology-of-solutions-task/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/technology-of-solutions-task/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/technology-of-solutions-task/purchase-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/technology-of-solutions-task/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/appConstants.js" afterPath="$PROJECT_DIR$/js/appConstants.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/vk/vk.service.js" afterPath="$PROJECT_DIR$/js/core/vk/vk.service.js" />
     </list>
     <ignored path="PavelOfficial.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,9 +26,9 @@
     <favorites_list name="PavelOfficial.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/experiences/technology-of-solutions-task/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -73,7 +75,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
+    <option name="x" value="1311" />
     <option name="width" value="1249" />
     <option name="height" value="1440" />
   </component>
@@ -103,7 +105,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -132,12 +133,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PavelOfficial.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PavelOfficial.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="experiences" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PavelOfficial.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PavelOfficial.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="experiences" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="technology-of-solutions-task" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,19 +181,19 @@
     <property name="js-jscs-nodeInterpreter" value="F:\Program Files\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\technology-of-solutions-task" />
+      <recent name="F:\projects\PavelOfficial.github.io" />
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\hight-smit-task" />
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\financial-chart" />
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads\build" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\projects\PavelOfficial.github.io" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\financial-chart" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\phone-catalog" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\sptnk-task\js" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\projects\PavelOfficial.github.io" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\hight-smit-task" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\financial-chart" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads\build" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads" />
     </key>
   </component>
   <component name="RunManager">
@@ -264,21 +298,9 @@
       <workItem from="1488900478271" duration="1155000" />
       <workItem from="1488906248162" duration="2233000" />
       <workItem from="1488956613853" duration="38000" />
-      <workItem from="1488969437462" duration="478000" />
-    </task>
-    <task id="LOCAL-00001" summary="upload Decode LLC task">
-      <created>1479810202387</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1479810202387</updated>
-    </task>
-    <task id="LOCAL-00002" summary="upload Decode LLC task">
-      <created>1479810344633</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1479810344633</updated>
+      <workItem from="1488969437462" duration="1356000" />
+      <workItem from="1488996454850" duration="23000" />
+      <workItem from="1489142641657" duration="53000" />
     </task>
     <task id="LOCAL-00003" summary="upload Decode LLC task">
       <created>1479813845200</created>
@@ -609,11 +631,25 @@
       <option name="project" value="LOCAL" />
       <updated>1488969475882</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="hi-smit-task">
+      <created>1488969919786</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1488969919787</updated>
+    </task>
+    <task id="LOCAL-00051" summary="fixes">
+      <created>1488970278711</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1488970278711</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64234000" />
+    <option name="totallyTimeSpent" value="65188000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -625,7 +661,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="0" width="1249" height="1440" extended-state="0" />
+    <frame x="1311" y="0" width="1249" height="1440" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29810074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -633,7 +669,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2178899" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2087156" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20855615" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -660,7 +696,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="searchinform test task fix" />
     <MESSAGE value="portfolio workpiece" />
     <MESSAGE value="funbox task" />
     <MESSAGE value="simple slider and others" />
@@ -685,7 +720,8 @@
     <MESSAGE value="Math pa" />
     <MESSAGE value="hight-smit-task" />
     <MESSAGE value="hi-smit-task" />
-    <option name="LAST_COMMIT_MESSAGE" value="hi-smit-task" />
+    <MESSAGE value="fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -694,7 +730,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build/app/js/experienceDetail/experienceDetail.component.js" />
     <entry file="file://$PROJECT_DIR$/build/app/js/personalPage/personalPage.module.js" />
     <entry file="file://$PROJECT_DIR$/build/app/js/contacts/contacts.template.html" />
     <entry file="file://$PROJECT_DIR$/build/app/js/personalPage/personalPage.template.html" />
@@ -944,23 +979,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-index.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiences/technology-of-solutions-task/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
