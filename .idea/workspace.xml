@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-bold-webfont-5cf1ce805037f7cfdbed38aa313cacd1.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-bold-webfont-6e8f2e7820de1456b8fc3383e29c7132.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-bolditalic-webfont-7715961ec7f9875ba9ecba97203f8764.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-bolditalic-webfont-9054a86b2a4c5ca7e278bbabe11c9acb.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-italic-webfont-709865ddfe1c00f5b1309a3c9babb708.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-italic-webfont-777003d4eaa6ac59688a4acb0c01fcd7.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-medium-webfont-53877b63fa931957481de200486286c0.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-medium-webfont-b2b018f07bef0b85c1260da40353f7af.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-mediumitalic-webfont-394041b879442e81a430d182bd608146.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-mediumitalic-webfont-f5c21f8cc72b2a6e6a6174f61ec1e6f0.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-regular-webfont-0f2595f924ee05bd71d4418a33dc3d1c.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-regular-webfont-4ece0bb788d4ba8fcae3c02a8e81bc32.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/images/coin-ico.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/app.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-bold-webfont-136c88c10d077412dd1fb0b1b209b2bb.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-bold-webfont-56ad248533d5ba3abe7a85b84a252c1e.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-bold-webfont-8c2a5c97c865591d9ec9a6cf479024fe.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-bolditalic-webfont-064e51f70db273461eb3df5bfff1290a.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-bolditalic-webfont-810dd629875729634a0bc19008df3414.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-bolditalic-webfont-9dec5c17fd2dff422044e012a7e8239a.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-italic-webfont-415afcbe5756e7fe9a94e26056817def.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-italic-webfont-6cc0d372a8b072f9fd62bfee9eb4eb44.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-italic-webfont-ff75ce3f6458dbe9edff99b663319a26.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-medium-webfont-583eea34e401be7c9ba96eeeab1c181a.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-medium-webfont-5fdee3a7c07dc7776b7365f376861fc6.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-medium-webfont-a6829107e0d0685bfa9bd318c054a47e.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-mediumitalic-webfont-29852919906aa933b5d8276ff3cb8426.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-mediumitalic-webfont-38fcc494b2dae3970711837e76726b1b.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-mediumitalic-webfont-4143a7397e84ff671ee04ce525d43e21.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-regular-webfont-3b9e337083bd1ec7daaa4ad511d5874e.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-regular-webfont-515d611349f401cd32998e955e549084.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/fonts/roboto-regular-webfont-bff463645afcb718b0e92b48f56adc6d.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/experiences/sharp-developers-task/index.html" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/index.html" />
     </list>
     <ignored path="PavelOfficial.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,7 +23,18 @@
     <favorites_list name="PavelOfficial.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/experiences/sharp-developers-task/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,6 +63,7 @@
         <option value="$PROJECT_DIR$/experiences/math-pads/index.html" />
         <option value="$PROJECT_DIR$/experiences/hight-smit-task/demo-index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/experiences/sharp-developers-task/index.html" />
       </list>
     </option>
   </component>
@@ -155,6 +133,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="experiences" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PavelOfficial.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PavelOfficial.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="experiences" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sharp-developers-task" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -293,14 +289,7 @@
       <workItem from="1489163568278" duration="42000" />
       <workItem from="1489312513304" duration="1141000" />
       <workItem from="1489313901547" duration="1150000" />
-      <workItem from="1489692441521" duration="42000" />
-    </task>
-    <task id="LOCAL-00008" summary="searchinform test task fix">
-      <created>1480173741686</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1480173741686</updated>
+      <workItem from="1489692441521" duration="170000" />
     </task>
     <task id="LOCAL-00009" summary="portfolio workpiece">
       <created>1480181677443</created>
@@ -638,11 +627,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489324917528</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="sharp developers task">
+      <created>1489692503274</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1489692503274</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68579000" />
+    <option name="totallyTimeSpent" value="68707000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -689,7 +685,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="sptnk-task upload&#10;" />
     <MESSAGE value="math-pads and phone-catalog" />
     <MESSAGE value="math-pads font fix" />
     <MESSAGE value="phone catalog build fix" />
@@ -714,7 +709,8 @@
     <MESSAGE value="technology-of-solutions-task" />
     <MESSAGE value="calendar task" />
     <MESSAGE value="flex calendar" />
-    <option name="LAST_COMMIT_MESSAGE" value="flex calendar" />
+    <MESSAGE value="sharp developers task" />
+    <option name="LAST_COMMIT_MESSAGE" value="sharp developers task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -723,7 +719,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build/app/js/experienceList/experienceList.template.html" />
     <entry file="file://$PROJECT_DIR$/build/app/js/experienceDetail/experienceDetail.template.html" />
     <entry file="file://$PROJECT_DIR$/build/app/js/personalPage/personalPage.component.js" />
     <entry file="file://$PROJECT_DIR$/build/app/js/experienceList/experienceList.module.js" />
@@ -1009,6 +1004,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiences/sharp-developers-task/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding />
         </state>
       </provider>
