@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/experiences/sharp-developers-task/app.bundle.js" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/app.bundle.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/experiences/sharp-developers-task/index.html" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/experiences/sharp-developers-task/styles.css" afterPath="$PROJECT_DIR$/experiences/sharp-developers-task/styles.css" />
     </list>
     <ignored path="PavelOfficial.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/experiences/sharp-developers-task/index.html">
+      <file leaf-file-name="app.bundle.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/experiences/sharp-developers-task/app.bundle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -165,19 +167,19 @@
     <property name="js-jscs-nodeInterpreter" value="F:\Program Files\node.exe" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\sharp-developers-task" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\flex-calendar" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\technology-of-solutions-task" />
-      <recent name="F:\projects\PavelOfficial.github.io" />
-      <recent name="F:\projects\PavelOfficial.github.io\experiences\hight-smit-task" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\projects\PavelOfficial.github.io" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\financial-chart" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\phone-catalog" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\math-pads" />
       <recent name="F:\projects\PavelOfficial.github.io\experiences\sptnk-task\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\sharp-developers-task" />
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\flex-calendar" />
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\technology-of-solutions-task" />
+      <recent name="F:\projects\PavelOfficial.github.io" />
+      <recent name="F:\projects\PavelOfficial.github.io\experiences\hight-smit-task" />
     </key>
   </component>
   <component name="RunManager">
@@ -289,14 +291,8 @@
       <workItem from="1489163568278" duration="42000" />
       <workItem from="1489312513304" duration="1141000" />
       <workItem from="1489313901547" duration="1150000" />
-      <workItem from="1489692441521" duration="170000" />
-    </task>
-    <task id="LOCAL-00009" summary="portfolio workpiece">
-      <created>1480181677443</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1480181677443</updated>
+      <workItem from="1489692441521" duration="1128000" />
+      <workItem from="1489694167982" duration="61000" />
     </task>
     <task id="LOCAL-00010" summary="portfolio workpiece">
       <created>1480185470750</created>
@@ -634,11 +630,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489692503274</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="sharp developers task">
+      <created>1489692614020</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1489692614020</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68707000" />
+    <option name="totallyTimeSpent" value="69726000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -658,7 +661,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2178899" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10779817" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.107715815" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -719,7 +722,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build/app/js/experienceDetail/experienceDetail.template.html" />
     <entry file="file://$PROJECT_DIR$/build/app/js/personalPage/personalPage.component.js" />
     <entry file="file://$PROJECT_DIR$/build/app/js/experienceList/experienceList.module.js" />
     <entry file="file://$PROJECT_DIR$/build/app/js/experienceList/experienceList.component.js" />
@@ -1004,14 +1006,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/experiences/sharp-developers-task/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state relative-caret-position="289">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiences/sharp-developers-task/app.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
