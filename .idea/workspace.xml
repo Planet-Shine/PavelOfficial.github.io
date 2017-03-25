@@ -1,42 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="sharp developers task">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-bold-webfont-5cf1ce805037f7cfdbed38aa313cacd1.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-bold-webfont-6e8f2e7820de1456b8fc3383e29c7132.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-bolditalic-webfont-7715961ec7f9875ba9ecba97203f8764.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-bolditalic-webfont-9054a86b2a4c5ca7e278bbabe11c9acb.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-italic-webfont-709865ddfe1c00f5b1309a3c9babb708.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-italic-webfont-777003d4eaa6ac59688a4acb0c01fcd7.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-medium-webfont-53877b63fa931957481de200486286c0.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-medium-webfont-b2b018f07bef0b85c1260da40353f7af.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-mediumitalic-webfont-394041b879442e81a430d182bd608146.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-mediumitalic-webfont-f5c21f8cc72b2a6e6a6174f61ec1e6f0.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-regular-webfont-0f2595f924ee05bd71d4418a33dc3d1c.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-regular-webfont-4ece0bb788d4ba8fcae3c02a8e81bc32.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/data/ok.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-bold-webfont-136c88c10d077412dd1fb0b1b209b2bb.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-bold-webfont-56ad248533d5ba3abe7a85b84a252c1e.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-bold-webfont-70277ee58aa7568bd4a851b96679e6c0.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-bolditalic-webfont-064e51f70db273461eb3df5bfff1290a.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-bolditalic-webfont-78531ba4aae4b339aa27071707356da5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-bolditalic-webfont-810dd629875729634a0bc19008df3414.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-italic-webfont-2060ecd89ca311fb0ffc367d72dd7cc8.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-italic-webfont-415afcbe5756e7fe9a94e26056817def.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-italic-webfont-6cc0d372a8b072f9fd62bfee9eb4eb44.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-medium-webfont-1cf52607d0c98ce19247687cc69909c4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-medium-webfont-5fdee3a7c07dc7776b7365f376861fc6.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-medium-webfont-a6829107e0d0685bfa9bd318c054a47e.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-mediumitalic-webfont-29852919906aa933b5d8276ff3cb8426.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-mediumitalic-webfont-4143a7397e84ff671ee04ce525d43e21.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-mediumitalic-webfont-ab0c339026678536804375c174c85b2a.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-regular-webfont-515d611349f401cd32998e955e549084.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-regular-webfont-bff463645afcb718b0e92b48f56adc6d.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/fonts/roboto-regular-webfont-cc50b3485344ef85f17791febaf48770.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experiences/transaction-app/styles.css" />
+    <list default="true" id="e925ffa2-c0f1-41bb-b203-89266dc12a2b" name="Default" comment="transaction app">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/experiences/transaction-app/main.js" afterPath="$PROJECT_DIR$/experiences/transaction-app/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/experiences/transaction-app/styles.css" afterPath="$PROJECT_DIR$/experiences/transaction-app/styles.css" />
     </list>
     <ignored path="PavelOfficial.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,21 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ok.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ok.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/experiences/transaction-app/data/ok.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/experiences/transaction-app/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -117,10 +75,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="332" />
-    <option name="y" value="372" />
+    <option name="x" value="153" />
+    <option name="y" value="295" />
     <option name="width" value="1249" />
-    <option name="height" value="961" />
+    <option name="height" value="1015" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -177,24 +135,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="experiences" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PavelOfficial.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PavelOfficial.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="experiences" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="transaction-app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -337,14 +277,7 @@
       <workItem from="1489692441521" duration="1128000" />
       <workItem from="1489694167982" duration="703000" />
       <workItem from="1489947622822" duration="437000" />
-      <workItem from="1490450434451" duration="44000" />
-    </task>
-    <task id="LOCAL-00014" summary="funbox task">
-      <created>1480245200469</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1480245200469</updated>
+      <workItem from="1490450434451" duration="787000" />
     </task>
     <task id="LOCAL-00015" summary="simple slider and others">
       <created>1480248775193</created>
@@ -682,11 +615,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489947804105</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="transaction app">
+      <created>1490450487841</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1490450487841</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70849000" />
+    <option name="totallyTimeSpent" value="71592000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -698,15 +638,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="332" y="372" width="1249" height="961" extended-state="0" />
+    <frame x="153" y="295" width="1249" height="1015" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2213047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2947977" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295107" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2178899" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16987951" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2785957" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -733,7 +673,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="math-pads font fix" />
     <MESSAGE value="phone catalog build fix" />
     <MESSAGE value="domen google api verify html key" />
     <MESSAGE value="math pads update" />
@@ -758,7 +697,8 @@
     <MESSAGE value="flex calendar" />
     <MESSAGE value="sharp developers task" />
     <MESSAGE value="flights widget" />
-    <option name="LAST_COMMIT_MESSAGE" value="flights widget" />
+    <MESSAGE value="transaction app" />
+    <option name="LAST_COMMIT_MESSAGE" value="transaction app" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1072,18 +1012,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/experiences/transaction-app/data/ok.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/experiences/transaction-app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiences/transaction-app/data/ok.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
           <folding />
         </state>
       </provider>
